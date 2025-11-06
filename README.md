@@ -10,6 +10,7 @@ pip install -r requirements.txt
 Then run spiders to get the origin data:
 ```bash
 python CrawlData.py
+sh Chrome.sh
 python  BossSelenium.py
 ```
        
