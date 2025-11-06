@@ -161,3 +161,4 @@ application.port
 ######################
 /solution/**/*.pid
 *.jdb
+monster-offer-hunter/plugin/src/cleaner/config.py
