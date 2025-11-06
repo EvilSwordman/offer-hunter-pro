@@ -1,0 +1,800 @@
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/33216d71006048f79831edc2bc8308b2
+Content: No content
+Full Post Text: 1.挑一个项目介绍2.设计百度搜索结果页的前端架构，需支持高并发访问、个性化推荐(如根据用户历史调整结果排序)、多终端适配，简述核心技术选型与架构分层。3.V8 引擎的垃圾回收机制中，新生代与老生代的回收算法有何差异?百度贴吧的长帖详情页(含大量图片、评论)如何排查并解决内存泄漏问题?4.Webpack 的代码分割(Code Splitting)有哪些实现方式?百度地图Web 端如何通过代码分割优化首屏加载体积，减少初始化时间?5.百度直播的实时弹幕功能，如何基于 WebSocket 设计一套可靠的消息推送方案，确保高并发下消息不丢失、不重复，且延迟低于100ms?6.React18 的 Concurrent Mode 与 Suspense 如何配合使用?百度智能云的数据分析看板(含大量图表渲染)如何利用这两个特性优化用户交互体验?7.浏览器的回流(Reflow)与重绘(Repaint)有何区别?百度搜索结躍为之页的“无限滚动加载”功能，如何避免频繁操作导致的回流问戾能运年?8.百度翻译的“实时翻译”功能(输入文字实时显示译文)，如何设计前端状态管理方案，支持多语言切换、翻译历史记录、离线翻译缓存?9.HTTPS 的握手过程中，证书验证的具体流程是什么?百度金融的支付页面为何必须使用 HTTPS，且禁用 HTTP 降级?前端如何检测当前页面是否为 HTTPS 环境?10.百度百科的 “目录跳转”与“锚点定位”功能，如何实现平滑滚动且精准定位到对应章节?若页面存在固定导航栏，如何避免定位偏移?
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/20b1acae2006437d89a5370dad1e8cdd
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/3f3eb4fa26a747f9a2fa6c8cd6267147
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/d4bcf352c2f24e78a0a4ee55abd6f3dc
+Content: No content
+Full Post Text: 📍面试公司：海康威视🕐面试时间：null💻面试岗位：前端开发工程师（实习）❓面试问题：1.自我介绍2.什么时候开始学前端3.盒子模型，高度宽度由什么决定4.flex布局5.var、let、const，为什么后两者要赋值后才能访问6.作用域链7.执行上下文的过程、执行周期8.构造函数return返回值，那么最终返回的是这个return的值还是new创建的新对象（分三种情况1.return对象return原始值3.没有return）9.为什么 Vue 2 中的 data 必须是一个函数返回对象，而不是直接是一个对象10.在 Vue 2 中，向一个响应式对象中动态添加新属性时，该属性会不会自动变为响应式，为什么vue3可以呢11.引导你说vue2和vue3响应式原理12.流式响应和分块更新如何实现13.git相关14.项目中遇到的难点15.http和https16.url解析过程17.攻击方式xss18.csp有了解吗🙌面试感想：总结，问的八股比较少，感觉面试官挺有水平的，一直在问一些底层的原理，有些能说出来，有些不会的面试官也会引导你去解决，然后后面的话就是介绍一些组里的业务，以及一些常规问题的反问。面试体验还好，然后其中一个面试官还是我的学姐哈哈哈你说这凑不凑巧，也不知道结果会怎么样，海康的池子估计挺大的，然后我目前手里也有一些offer（但都是口头）也不知道这样一直拖下去会不会给我鸽了。。。#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/b3604000b8414f0783913a4c5ba1c6de
+Content: No content
+Full Post Text: 📍面试公司：微医🕐面试时间：null💻面试岗位：前端开发工程师（实习）❓面试问题：1.跨域相关，项目中有没有涉及到，怎么解决？2.什么是复杂请求3.options预检4.get、post以及其他方法有使用吗5.http状态码304、403、5046.Localstorage是永久存储吗7.如何设置Localstorage有效时间8.vue2有用过吗9.组件之间的通信方式10.事件总线EventBus的优缺点11.vuex和pinia怎么使用的12.水平垂直居中13.ai相关14.大模型的深度思考了解吗15.后端语言有了解吗，python的大模型框架了解吗16.nodejs有使用吗17.研究生方向，联邦学习怎么和llm结合的🙌面试感想：一面电话面，问了一些自身的情况和项目问题，以及ai相关的问题。二面视频面，二面就面了20分钟左右，也不知道是kpi还是我对ai的了解太少，问的很多ai相关的问题我都不大了解，平时只是浅浅的使用ai，不太了解像是python的大模型框架等。面了这么多词，我发现很多面试官都喜欢问ai相关的问题，一个是他们公司的业务正与ai强相关，一个是当下ai确实是大势所趋，但是我就是一个小小的前端er，真不懂什么ai啊……#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/b5c55a7d64e547c280b6e8c49ab00d67
+Content: No content
+Full Post Text: HTTP的请求方法有GET、POST、PUT和DELETE等。https://www.nowcoder.com/issue/tutorial?zhuanlanId=Mg58Em&uuid=b48bebe08e474db8b80b853b12bafd48#牛客AI配图神器#GET方法用于获取资源，即从服务器端获取特定资源的信息。该方法的请求参数通过URL的查询字符串传递，通常用于读取数据。GET方法是幂等的，即多次执行的结果应该是相同的，不会对资源产生影响。POST方法用于向服务器提交数据，以创建新的资源。该方法的请求参数通常通过请求体传递，用于向服务器发送数据，比如提交表单、上传文件等。POST方法不是幂等的，即多次执行可能会创建多个相同的资源。PUT方法用于更新资源，即向服务器更新指定资源的信息。该方法的请求参数也通过请求体传递，用于更新服务器端资源的数据。PUT方法是幂等的，即多次执行的结果应该是相同的。DELETE方法用于删除资源，即请求服务器删除指定资源。该方法通常不包含请求体，直接通过URL标识要删除的资源。DELETE方法是幂等的，即多次执行对同一资源的DELETE请求不会产生额外的影响。这些HTTP请求方法在前端开发中经常被使用，掌握它们的作用和用法对于开发的网络请求非常重要。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/42395957e89a4a79822f2dbca460ebfd
+Content: No content
+Full Post Text: 背景：本硕双一流深圳 某垂直领域龙头 前端开发 13*13提供住宿 给的校招offer但需要先实习这个条件能接吗#秋招##offer帮选##前端#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/2c91637f70ca4c5a996e0bbeab7afca5
+Content: No content
+Full Post Text: 1.项目介绍2. 你觉得Vue2和Vue3 的核心差异在哪里，哪些问题是 Vue3解决掉的3. vue3的proxy这个新的一个特性，那如果说深层的这种嵌套对象有没有遇到过监听失效的这种情况，怎么处理呢？3.看你做过报告解读，你们用这个ocr 怎么去处理这种识别的误差，或者说一些值的误差怎么办？比如说我给你的是一份体检报告，这个体检报告的格式有可能更不像我们医院的检验单，那么标准就是检验项目上面是表格检验的细项，有可能这个体检报告。它的格式。就每一份体验报的格式都不太一样，怎么办4. 虚拟 dom在哪些场景下，反而会有一些性能的瓶颈5. 你刚提到的大的数据量，我们虚拟列表你能讲一下吗？底层是什么原理实现的6.它有等高或者不等高的情况，如果不等高的情况要怎么处理7. Pinia 对比vuexAPI 的设计的差异上解决了哪些问题？有哪些优势？8.有这么一个场景：当我在这个公众号或者小程序，就你现在做的这个，就是我如果说去查看我的一些影像报告，然后这个影像报告呢有点大，大概就是。几十兆这个样子有什么优化的方式，从网络请求到渲染整个全链路的一个优化方案讲一下9. 如果要在小程序中实现一个可拖拽的医疗病历拼图功能，需要支持分页加载 + 多指缩放 + 保存状态，怎么来设计10.如果医院要你接入一个 PACS 系统，展示 DICOM 格式影像报告，怎么来设计11. 有个业务要做一个骨密度 AI 预测组件，后端提供的是 TensorFlow.js 模型文件，前端要做预测展示，怎么做12. 有没有用过 defineExpose、defineOptions、defineModel 这些组合式宏？在实际开发中怎么使用更合理？13. 比如小程序或者 H5 在低版本 Android 上崩了，你怎么定位问题怎么解决14. Pinia 怎么解决跨 tab 数据同步的问题15. 如果我页面上有 1 万条数据，用 v-for 卡顿了你会怎么优化？16.你觉得你你对团队沟通或者说就是团队建设，团队氛围以及需求沟通，以及你对你自己的评价是什么样的？17.如果说产品就是跟团队的 leader 的意见，除了这个就是向左，你会更支持哪一方，或者说你会更站在哪一方去考虑这个问题。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/693e4b9d712940be9be3bab8eba19387
+Content: No content
+Full Post Text: OPPO base深圳 多媒体开发美团 base北京 前端开发 白菜帆软 base南京/无锡 后端开发科大讯飞 base合肥 cpp（智驾）其他在泡：百度 cpp base上海华为 通软荣耀 通软
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/0b1afddfa68c456eac692d0afde059fa
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/e31813339ff24a38b5d4f477fad11fd1
+Content: No content
+Full Post Text: 一面1、拷打实验室项目（10min）2、讲一下秒杀活动的实现3、前端防刷能解决哪些问题，有哪些局限性4、如果用户不通过浏览器界面，而是直接模拟或调用后端接口进行刷单，如何防范？5、在应对局域网下（同一IP）大量用户同时抢购的场景时，怎么设计IP限流策略？6、高并发场景下“热Key”问题会对系统产生什么影响？怎么解决7、除了“下单”环节，整个秒杀链路中还有哪些环节可能存在性能瓶颈或挑战？8、在秒杀活动正式开始前，如何应对用户不断刷新页面等行为带来的流量冲击？9、为什么决定做这个Agent项目？10、怎么用Graph框架来设计和控制任务流程的？11、RAG知识引擎包含了哪些核心功能？12、如果知识库的内容非常庞杂，包括多种类型，如何智能地判断和优先提供最相关的知识？13、讲一下MCP的实际开发或集成经验？14、MCP与传统的Function Calling在工具调用层面，主要的区别和优势是什么？15、反问
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/18949bc90aba4b9ea1d9b70da90a5465
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/91db7ee9796f4c9fa8a8e0e279cbabec
+Content: No content
+Full Post Text: #发面经攒人品#众合科技前端一面面试重点vue相关和实习内容1.vue23区别2.vif vshow区别3.webpack vite开发模式区别4.父子组件生命周期5.拷打简历内容6.不记得了，反正还问了好多vue问题。。。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/5f5e0e14edb04d0dbce09d3b2d066ef8
+Content: No content
+Full Post Text: 优化前端性能是一个广泛的领域，有很多方法可以提高网站或应用程序的加载速度和性能。以下是一些常见的优化技巧：https://www.nowcoder.com/issue/tutorial?zhuanlanId=Mg58Em&uuid=07d53be4cd034a4ab270d500feebcc8d压缩和合并文件：将CSS和JavaScript文件压缩和合并成一个文件可以减少网络请求的数量，从而加快页面加载速度。图片优化：通过压缩图片文件大小、使用适当的图像格式（如JPEG、PNG）以及懒加载技术来减少图片加载时间。缓存机制：使用浏览器缓存来存储静态资源，以减少重复下载。异步加载：将不必要的资源推迟加载，例如使用异步脚本或将JavaScript放置在页面底部。延迟加载：对于长页面或含有大量内容的页面，可以使用延迟加载技术，只在页面滚动到可见区域时加载内容。减少HTTP请求：减少网页中的资源数量，例如合并CSS和JavaScript文件、使用CSS Sprites技术等。响应式设计：为移动设备进行优化，使用响应式设计，确保网站在不同屏幕尺寸上都能良好显示和操作。使用CDN：使用内容分发网络（CDN）可以将静态资源分发到全球各个服务器上，加快资源加载速度。优化代码：通过减少DOM操作、避免不必要的重绘和重排等技术来优化JavaScript代码。使用性能分析工具：使用工具如Chrome开发者工具或PageSpeed Insights等来分析和识别潜在的性能瓶颈，并采取相应的优化措施。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/5097cdb141af46e7ae63f67a267355d7
+Content: No content
+Full Post Text: 本人男，双非本，211硕，家在山东,今天收到广联达和潍柴的offer,另有美团和华为保温，逛了很久情况是广联达、潍柴无一好评,美团不对口（没有学过前端且担心因此不过试用期前端被裁不好找工作)华为不一定能开,且明确说明不能到14级,求对几个公司了解的前辈分享经验！！！#一起聊美团##美团开奖##华子oc时间线##软件开发投递记录##广联达##潍柴#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/40778e0bfc1a4a1287bd2e9fb5bd0912
+Content: No content
+Full Post Text: #薪资爆料#最终还是等到了大白菜，联系邮件hr还有a的机会吗？求指导#美团开奖#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/2e183ba5d9954fb0ab8340abe0cb532c
+Content: No content
+Full Post Text: 前端开发中常用的构建工具有以下几种：https://www.nowcoder.com/issue/tutorial?zhuanlanId=Mg58Em&uuid=07d53be4cd034a4ab270d500feebcc8dwebpack：是一个静态模块打包工具，可以将多个模块打包成一个或多个文件，对于代码的压缩、混淆、拆分等功能十分强大。Grunt：是一个基于任务的构建工具，可以自动化执行各种重复性的开发任务，如代码压缩、文件合并、文件监控等。Gulp：也是一个基于任务的构建工具，相比于Grunt，Gulp使用流的方式来处理任务，更加高效和易于理解。Parcel：是一个零配置的前端打包工具，可以自动处理模块依赖关系、代码转换、按需加载等，使得开发者可以更专注于代码编写而不需要配置繁琐的构建过程。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/e5d450e1bbc84edc8d54769778321e6f
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/bb86c595e5ea42f3b227a63320f7213c
+Content: No content
+Full Post Text: 让ai总结了一下问题和回答，心累了，面试官一直问优化相关的问题，多少也回答了一些出来，最后反问的时候，问有什么能加强的，说是觉得项目没什么亮点，一、代码问题的主动发现与预防主动发现方式静态代码分析：使用 ESLint、TSLint 等工具在编码阶段检测语法错误、代码规范问题、潜在逻辑漏洞（如未处理的空值、死循环）。自动化测试：通过单元测试（Jest）、集成测试（Cypress）覆盖核心逻辑，结合 CI/CD 流程在提交 / 部署前触发测试，提前暴露问题。代码审查：制定 Code Review 规范，重点检查边界条件、性能风险、安全性（如 XSS、CSRF）。监控告警：线上通过 Sentry 等工具捕获运行时错误（如 TypeError、Promise 未捕获异常），结合日志分析高频异常点。预防措施制定开发规范：明确命名规则、代码结构、错误处理方式（如统一使用 try/catch 或全局异常捕获）。技术选型管控：避免引入低维护性依赖，优先选择成熟库并控制版本。定期重构：针对耦合度高、可维护性差的代码进行重构，降低后续迭代风险。二、To C 项目的监控设计To C 项目需重点关注用户体验与稳定性，监控设计可从以下层面展开：前端性能监控核心指标：首屏加载时间（FCP）、交互响应时间（TTI）、白屏时间，通过 Performance API 或第三方工具（如 Lighthouse、阿里云 ARMS）采集。资源加载：监控 JS/CSS 加载耗时、图片加载失败率，设置阈值告警（如某资源加载超时 >3s）。用户行为与异常监控错误监控：捕获 JS 运行时错误、接口错误（4xx/5xx）、资源加载失败，关联用户 ID、设备信息便于定位。行为轨迹：记录用户点击、滑动等操作，分析卡顿、崩溃场景的触发路径（如某按钮点击后高频报错）。业务指标监控核心流程转化：如注册、支付步骤的成功率，异常中断时触发告警。设备兼容性：统计不同浏览器 / 机型的报错率，优先修复高占比问题。实现方式埋点系统：通过 SDK 主动上报监控数据，后端存储后用 Grafana 等工具可视化。实时告警：配置短信 / 钉钉通知，针对严重错误（如大面积白屏、支付失败）即时响应。三、虚拟列表优化实现虚拟列表核心是只渲染可视区域内的 DOM 元素，减少渲染压力，实现思路：核心原理计算可视区域高度、单个 item 高度，确定可见项数量（如可视区高度 500px，item 高 50px → 可见 10 项）。监听滚动事件，动态计算滚动偏移量，确定当前需渲染的 item 起始索引。通过容器内的 “占位元素” 撑起列表总高度，避免滚动条异常，可视区项通过绝对定位展示。关键优化缓存已渲染项：避免滚动时频繁销毁 / 创建 DOM，仅更新位置和内容。预渲染缓冲区：在可视区上下额外渲染 1-2 项，减少快速滚动时的空白闪烁。动态高度支持：若 item 高度不固定，可通过预估高度 + 滚动时修正位置解决。库选型：优先使用成熟库（如 react-virtualized、vue-virtual-scroller），减少自研成本。四、列表滑动卡顿的排查与优化排查方向性能分析：用 Chrome DevTools 的 Performance 面板录制滑动过程，查看是否有长任务（>50ms）、频繁重排（Layout）/ 重绘（Paint）。DOM 数量：检查列表是否渲染了过多 DOM（如未做虚拟列表），导致渲染线程阻塞。事件处理：滑动时是否绑定了高频事件（如 scroll、touchmove）且未做节流 / 防抖，导致 JS 线程繁忙。样式问题：是否使用复杂样式（如阴影、渐变）或强制同步布局（如频繁读取 offsetHeight 后修改样式）。优化措施实现虚拟列表：减少 DOM 数量（见上文）。优化事件：对 scroll/touchmove 事件节流（如 100ms 触发一次），避免高频执行。减少重排 / 重绘：将固定样式抽离为 CSS 类，避免 inline 样式；使用 will-change: transform 让浏览器单独分层渲染。数据处理：若滑动时需加载数据，提前预加载并缓存，避免同步阻塞。五、白屏的检测与解决检测方式前端埋点：在页面关键节点（如 DOMContentLoaded、首屏元素渲染完成）设置时间戳，若超过阈值（如 5s 未渲染）则上报白屏事件。图片监控：在页面顶部放一个 1x1 像素的 “探针图片”，若加载成功则证明页面正常，否则判定为白屏。错误关联：结合 JS 错误日志（如关键脚本加载失败、语法错误）定位白屏原因。解决思路加载问题：优化资源加载（如 CDN 加速、代码分割、懒加载），处理脚本加载失败（如重试机制、备用 CDN）。渲染阻塞：避免 JS 阻塞 HTML 解析（如用 defer/async），减少首屏不必要的 CSS/JS。数据依赖：若白屏因接口延迟，增加骨架屏、加载动画，避免用户感知空白；接口失败时显示错误提示并提供重试。兼容性：修复特定浏览器的渲染 bug（如 CSS 前缀缺失、ES6+ 语法未转译）。六、ECharts 性能问题及优化常见性能问题大数据量渲染卡顿（如万级以上数据点）。频繁更新（如实时数据）导致内存泄漏或 CPU 占用过高。图表容器大小频繁变化时重绘异常。折线图（多日期筛选）的优化与后端方案前端优化：数据采样：根据日期范围动态调整精度（如日级展示 24 点，周级展示 24*7 点，月级按天采样而非小时，避免数据量过大）。节流重绘：筛选日期时，通过防抖（如 300ms 延迟）避免频繁调用 setOption。销毁旧实例：切换筛选条件前，调用 dispose () 销毁旧图表，释放内存。懒加载：非首屏图表延迟初始化，避免阻塞首屏渲染。与后端沟通方案：动态返回精度：后端根据筛选的时间范围（天 / 周 / 月）返回对应粒度的数据（如周级返回按小时聚合的平均值，而非每小时原始数据）。分页 / 分段加载：若需保留细粒度，后端支持按时间段分段返回，前端滚动时再加载后续数据。数据压缩：后端用二进制或精简格式（如仅返回 [x,y] 数组而非完整对象）减少传输量。ECharts 适配方案响应式容器：监听窗口 resize 事件，调用 resize () 方法调整图表大小，结合 CSS 媒体查询适配不同屏幕。移动端优化：简化图表样式（如隐藏次要网格线、缩小字体），触摸交互适配（如支持双击放大、手势缩放）。七、图片优化方向资源优化格式选择：优先使用 WebP/AVIF（比 JPEG 小 30%+），降级兼容旧浏览器；简单图形用 SVG 替代位图。压缩处理：通过工具（如 TinyPNG）或后端服务（如七牛云）压缩图片，平衡质量与体积。合理尺寸：根据展示容器大小提供多分辨率图片（如 srcset 属性），避免大图小用。加载优化懒加载：使用 IntersectionObserver 监听图片进入视口后再加载，减少首屏请求。预加载：对首屏或即将展示的图片（如轮播图下一张）用 link [rel="preload"] 预加载。缓存策略：设置合理的 Cache-Control 头，复用缓存减少重复请求。体验优化占位符：加载前显示低分辨率缩略图或纯色占位，减少布局偏移（CLS）。错误处理：图片加载失败时显示默认图，避免破图影响体验。八、图片加载时间的检测前端检测监听事件：通过 img.onload 记录加载完成时间，减去 img.src 赋值时间，得到加载耗时。Performance API：使用 performance.getEntriesByType ('resource') 获取图片资源的加载详情（如 startTime、responseEnd），计算耗时 = responseEnd - startTime。埋点上报：将检测到的耗时结合图片 URL、用户设备信息上报，分析慢加载图片。工具辅助浏览器 DevTools：Network 面板筛选 img 类型资源，查看各阶段耗时（如 DNS、TCP、下载）。第三方监控：通过 Lighthouse 或监控平台（如 Datadog）批量分析页面图片加载性能。#牛客AI配图神器##面经##去哪儿旅行 秋招#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/5d3c8850f46d42e08dc9ab8472515566
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/717cf1fc3a0c4df5a846e363737ab8dc
+Content: No content
+Full Post Text: #找工作八股要背到什么程度？#基础概念能 “精准复述 + 抓核心”，比如讲 HashMap，不用背源码，但要明确 “数组 + 链表 / 红黑树结构、扩容机制、线程不安全原因”，用自己的话讲清楚逻辑。能结合场景 “落地分析”，比如被问分布式锁，不仅说 Redis/MQ 两种实现方式，还能讲 “高并发场景选 Redis，一致性要求高选 MQ”，体现实用性。接得住 2-3 层追问，比如讲 Spring IoC，面试官问 “循环依赖怎么解决”，能立刻回应 “三级缓存，singletonObjects、earlySingletonObjects、singletonFactories 的作用”，说明不是死记硬背。后端开发：优先背 Java 基础集合、多线程、MySQL索引、事务、优化、Spring 框架IoC/AOP、循环依赖、分布式CAP、一致性协议，这些是面试必问核心。前端开发：重点抓 JS 基础原型链、闭包、异步、框架Vue 响应式、React Hooks、浏览器原理缓存、渲染流程，不用深钻后端的分布式知识。测试开发：侧重测试理论黑盒 / 白盒、等价类、自动化测试Selenium、接口测试工具、数据库基础，代码相关的八股浅背即可，重点在实操思路。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/06a117dd4ca64098ad13a6c9685fc081
+Content: No content
+Full Post Text: #今年秋招是回暖还是遇冷##前端##后端##客户端##测开#写在开头：大部分基本上都是走这四条路，下面说一下我对这四个方向的看法后端：1.主要是做一些业务逻辑的处理，基本上算是幕后的开发，不像前端一样随时可以看到结果，而且学的越深越难，需要有一定的408的底子。2.核心技术栈：语言、框架、中间件、数据库、分布式系统。3.曾今性价比巅峰，大家一窝蜂的去后端，每次开奖都像天价一样，导致越来越多的人投入互联网，甚至有的机构为了培养一批后端机器，直接开培训班，先培训签合同，找到工作后直接返点。前端：1.点开浏览器看到的大部分页面都是前端，各种商品，按钮基本上都是前端设计，所以说学前端很大一部分都是女生，需要点审美素养。2.核心技术栈：Vue, React, Angular。3.上手难度简单，而且反馈效果很好，基本做多少就能看到多少，即学即用，而且网上很多视频和技术都很成熟，学习门槛较低。但随着大家对于审美的要求，前端也必须具备一点审美素养，而且目前正在逐步取代客户端，但是前端白菜价较低，薪资待遇相比其他几个行业都低一点。客户端：1.目前基本上是三大主流iOS、Android或HarmonyOS，移动端越来越受大家喜欢，各种新奇app总是能抓住大家的喜欢，而且现在人手不离机，更是让客户端前景广阔，但是客户端好像饱和了，最近几年越来越难找工作。2.核心技术栈：特定语言及框架。3.学习难度比前端难一些但是比后端简单许多，而且设计UI界面的时候很有趣，看到自己做的app能够部署在自己的手机上真的很有成就感，但是由于目前逐渐被前端取代，所以竞争难度比前端低，目前性价比最低，喜欢写UI界面的同学不如直接写前端。测开：1.测开好像高不成低不就一样，我室友就是从后端进去然后转成测开，现在就是说什么都要做，他一个人做三份工，任何一个环节都要参与，说实话性价比是最低的。2.核心技术栈：测试框架、自动化脚本、CI/CD。3.测开的发展前景不好，而且逐渐边缘化，实在不行也别去碰，一但碰上可以脱不开身了。适合后端：享受构建复杂系统、处理海量数据和逻辑的朋友，后端需要投入大量时间打好计算机基础。适合前端：对视觉细节、交互体验有追求，乐于快速尝试新技术。适合客户端：喜欢眼见为实，享受在具体设备上打造完整产品体验。适合测试开发：擅长思维严谨，善于发现细节问题，并乐于通过技术手段提升效率和质量。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/8d61cdb165cf4f539ce9efbb072052d3
+Content: No content
+Full Post Text: 【别死磕后端！前端/客户端/测开三大蓝海，高薪上岸正当时】🚀（正视现实篇）后端面试：30000人抢1个岗，要求精通分布式+云原生+源码原理前端/客户端/测开：3个岗位抢1个人，实战能力大于八股文——聪明人都在用信息差打破职业瓶颈！（薪资真相篇）▷ 同届生前端包年涨10%？因为Flutter/跨端/可视化成企业刚需▷ 客户端逆袭40K+？鸿蒙/AI原生应用正掀起抢人大战▷ 后端比测开香？自动化平台建设+质量体系设计，薪资远比后端高（附真实Offer对比：某大厂后端15薪 vs 测开18薪+项目奖金）（突围攻略篇）✨ 前端：Vue3+TS一小时搭出管理后台，作品集直接甩面试官脸上✨ 客户端：React Native/Flutter双端通吃，比纯原生开发效率翻倍✨ 测开：用Python写自动化脚本比JAVA卷算法更容易拿面试邀约（灵魂暴击）当后端还在为“订单超卖”秃头时，前端已用Three.js做出3D数据大屏被总监点赞；当后端半夜被告警短信吵醒时，测开正用平台化工具摸鱼撸猫；——选择比努力更重要！💥 立即行动清单：1️⃣ 免费试学 | 慕课网搜索「Vue3企业级实战」/「App自动化测试框架」2️⃣ 建立优势 | 用1个月复刻某大厂主页（移动端+PC端自适应）3️⃣ 内推捷径 | 关注头部企业「前端/测开」技术分享会直通HR📉 后端已从技术圣殿变成人才绞肉机📈 而智能座舱/元宇宙/AI中台正在引爆前端&客户端新需求你确定要把青春耗在CRUD地狱里？
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/aa6c627a9c9146eea387143601f0aa59
+Content: No content
+Full Post Text: #同bg的你秋招战况如何？#其实刚开始接触的是后端开发，当时做小组项目的时候也是负责后端开发这个板块，但是学到sping和高并发的时候有点吃力，那时候又开了一门安卓课程，老师就是从腾讯客户端离职来教我们后端+客户端，当时老师一股劲的吹捧客户端好，性价比高，极缺人才，然后接触之后发现它既像安卓又像后端，然后就神不知鬼不觉扎进去了。结果秋招不尽人意，客户端太难找工作了，看到大家基本上都拿到了offer，大部分都是前端，后端，如果当初坚持学后端，只不是现在已经手握几个offer了。前段大佬们感觉拿offer特别简单，身边学的最多的就是前端，后端学的人很少，坚持下来的人不多，学算法的基本上不存在……
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/99c47b8f06b34619b2beadcac938b74a
+Content: No content
+Full Post Text: 1.算法合并链表还有个也是链表的top100忘记了2.自我介绍3.消息队列为了解决什么问题异步秒杀具体是一个怎么样的实现消费的时候发现没有库存怎么办为什么引入redis能不能在启动的时候把所有的信息都加载到服务内存而不用redis用过rabbitmq延时消费吗4.沾包问题根本原因ip层会沾包吗http会吗5.http常用的头字段6.websocket建立的过程和http的关系7.jwt和session后端服务有多个session怎么处理8.反问其实在正式开始找工作之前，从选择做java后端这个方向开始我就时不时会后悔，虽然当初看着java岗位多进来了，但是实际上看这几年的招聘情况是不甚乐观，也曾经想过要不要转前端或者go，但是因为自己的惰性和沉没成本没能狠下心去转。在这学期国庆终于把最基础的课程项目和简历做完之后就开始投了。说实话和我想象的完全不一样，我想着就是先投小厂实习一段时间再中厂，等暑期实习冲击大厂，可以就业形势远比我想象的要紧张，中小厂完全不回我简历或者是没有除了应届生以外的实习渠道，反而是那几家中大厂至少还能投（虽然大部分也是泡池子），这也就彻底改变了我的规划，决定all in中大厂，正如9本和普通本科的面试/投递率有千差万别，我相信有一段中大厂实习的背书肯定不会发生别人口中那种暑期实习泡池子的情况。在写下这期笔记的时候我也已经有自己的去处了，可能还会更新几个面经，但是说实话大头就要放在实际工作和准备暑期实习上了。腾讯，我们暑期实习见！#发面经攒人品##后端开发##大厂#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/6da48f1bf6904bfa8d2311f75d4bb652
+Content: No content
+Full Post Text: 牛客上的题目全要吃透底层理解么?大家有什么建议，本人双非硕目前研二，有前端后端项目的开发经验，不过很多代码也用了AI，自己主要看一遍错误，具体细节是自己操作。怎么才能找到工作呢?意向的城市是长沙。#牛客AI配图神器#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/921a5b331cad4d0ca97074e2628b3613
+Content: No content
+Full Post Text: 最近没投简历，不过接到了几个捞我的，有空就顺便面了一下。懂车帝和字节的tiktok国际内容安全平台的前端开发。两位面试官都很像，逮着我的简历项目问，然后一点点简单的八股，两道前端的手写题。懂车帝的面的一般，字节这个感觉还好，最后面试官跟我说挺match的，面试回答也不错，结果一面挂了。放下timeline吧，其实每次面试完不能一天内给结果的，感觉基本都挂了字节:10.24捞，10月28约面，10.30一面，11.3挂
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/bbc2bda64651430c9d4ce90c92559696
+Content: No content
+Full Post Text: 一家顺丰孵化的公司，做无人售卖零食柜的，找遍了都没找到面经，自己来发一个。有两个面试官，面得很简单，30分钟准时结束，没有反问环节tl：10.20hr打电话直接hr面，10.21测评，10.23技术面，10.31谈薪- agent工作流- 挑一个需求讲一下- 有没有从零搭建过系统- 有了解过webpack吗- 布局方式- BFC- 水平垂直居中，有没有了解过grid的兼容性问题- 闭包- 事件委托，平时开发过程有没有用过，react的事件委托有没有了解过- 深拷贝浅拷贝- 操作数组的方法- 平时怎么学习前端- 有没有碰过兼容性问题- 怎么看代前端交互的速度和质量两者的关系- 为什么选择前端开发，认为自己在前端开发方面有什么优势
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/60f0d4a4791f40dc8a13e8108de62007
+Content: No content
+Full Post Text: 之前都是做后端的，投了才发现是客户端，本来想拒，hr又挽留对客户端有什么了解，前端有什么了解数据结构：1.数组和链表有什么不同？分别有什么特点？2.栈和队列介绍一下3.数组和链表都能实现栈和队列吗java：4.HashMap的底层实现5.超过8一定变成红黑树吗6.会不会出现超过十个元素都在一个桶中，Java是怎么避免的（跟上一个问题其实一样，一开始没意会）7.HashMap怎么保证线程安全，有哪几种思路8.java的GC讲一下操作系统：9.CAS是什么？有什么问题？10.线程和进程的介绍一下？为什么要有线程？11.进程间通信的方式有哪几种，详细说下计算机网络：12.tcp和udp的区别？tcp三次握手了解吗？14.ai这种深度思考场景下你觉得使用tcp还是udp？那udp有什么使用场景？15.ai平时怎么样用？ai二次开发过吗？情景题：50容量的课程1000个人去选，多线程情况下，读写要怎么防止竞争和超卖设计模式：设计模式，三种工厂模式有什么区别，各举例应用场景责任链模式了解吗？算法题：承接第一个问题：用数组实现一个栈和队列，十五分钟反问阶段#面经##字节##客户端##一面##牛客AI配图神器#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/972e86a5b35142aa8e546a8b679997eb
+Content: No content
+Full Post Text: 1. 自我介绍2. 实习1. 没有留用名额吗2. 有安排留用答辩吗3. 假设入职一定会去这个部门吗4. 好的体验的什么5. 需要提升的点有哪些3. 本科过了四六级？1. 六级多少分？4. 项目经验都是校园的吗5. 实习的工作方式是什么1. 你们主要优化哪些点？主要负责什么工作？谁分配任务6. 如果让你主导开发一个应用，有产品、测试、前端、后端，你会怎么开展，会关注哪些关键的地方1.  怎么保证研发的质量（代码质量？）2.  要保证产品的稳定性，研发过程中需要注意哪些点？3.  产品目前达到了一个稳定的目标值，进一步优化性能的常规方法有哪些？7. 三方下来了吗1. 有offer了吗2. 发offer的时间？3. 继续面试的原因？4. 北京的投了哪些公司？5. 实习是在北京吗？6. 期望薪资1. 回答看薪资结构、强度：12+2，双休（大的发版周五会通宵，周六也可能加班）8. 反问（7分钟）：意向地、培养体系（1~2 ERP培训、高p专家分享、部门培训）、合同3年-6月（90%以上是可以通过）、年终一般可以拿多少（公司x部门x个人）、后续（这周应该可以反馈）Timeline8.23  投递（高潜）9.12前  笔试10.11  一面10.14  测评10.15  二面10.21 推荐/变更职位（二面或者三面后，降级应该就是这一步）10.21  三面10.27  HR面10.31  意向（普通批）#秋招##我的求职进度条##用友高潜##面经##秋招笔面试记录#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/a402078d9c1a4457aab8311600ce9d3b
+Content: No content
+Full Post Text: 拼多多海外部门temu，搜广推算法，客户端服务端开发、数据、分析，风控算法，前端都有，hc多多。内推码：j9u9BJTaUC（通过此链接投递计入内推，内推简历优先筛选~#拼多多##大厂内推##26届校招##互联网大厂##内推#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/947f906d26e746d3b63e0f11cfef1d22
+Content: No content
+Full Post Text: #校招笔试##百度#做完了，有数据结构、前端、数据库，十分的好啊我是勇士，裸考上阵，我特别喜欢最后一道编程题，十分的有意思，后期我会把它开发出游戏来玩玩，谢谢百度如果我能进入后期面试，我会感谢你，如果没能进入，我也谢谢你，感谢你给了我一次机会。爱你百度，我是夏茗泽。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/3f8f7995bba6478790c5c54fbe46b8e7
+Content: No content
+Full Post Text: 小弟的学历背景太烂了，秋招网申投完基本没有消息，boss发送10条消息才有一个回复的，太难了，因为学习醒悟的太晚了，人生第一次参加秋招，以为有了一段实习后会容易很多，发现跟自己想的完全不一样，投本地的小公司还好，大厂我是直接不敢投，一份大厂的简历都没投因为算法没有刷过，面试手撕肯定gg，今年春天的时候去过我们学校双选会，都是本地小公司，java薪资直接演都不淹了转正4k，双非本后端直接不行，倒是前端可以，听说数院的一个无实习直接拿到了东方财富的前端offer，我觉得肯定给不少，哎，小厂呢前后端又不分离。感觉被做局了，大厂呢直接进不去，那些制造业的厂，基本开发个东西都会找外包公司来完成，他们公司的开发岗呢又很卡学历，外包呢又不想去，感觉掉进死循环了。以后这几年毕业生比之前几年还多，不敢想象以后的就业环境了，我之前实习的那个外包公司，前几天收2本的同学，这两年开始只要一本的了，今天我刷朋友圈，发现又去哈工大招人了，真的是好可怕#今年秋招是回暖还是遇冷#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/c9d31ca45ed74fb29c69710ec8c5fba7
+Content: No content
+Full Post Text: 就业方向建议本人背景：双非本西电硕研二研究方向：模型轻量化（KV Cache），但目前也只是知道在做什么，复现过两篇SOTA论文，还没有自己的idea项目上：自己做过一些嵌入式和大模型边缘部署的项目，会CMake, shell, gcc交叉编译10月以为自己会点嵌入式“会点*大模型压缩就可以找AI Infra相关的实习了，实则狠狠打脸，vllm，sglang，CUDA深层次的一个都不会，遂放弃目前就业方向纠结：模型部署/AI Agent/嵌入式/前端1.模型端侧部署 发展前景怎么样？场景主要是车厂和工业环境？感觉手机端侧模型的能力很鸡肋。薪资比传统嵌入式高2. AI Agent RAG RL 目前身边的人都在做这个，但自己现在还不会Java强化学习，焦虑自己进度3. 嵌入式 一般的厂薪资低上限也低，大疆要求如何？4. 开发的话今年感觉前端比较缺人，但就要放弃之前的积累，也不知道发展如何5. 推荐入局算力算子吗想听听正在秋招和已经就业的学长学姐的看法和建议#秋招##大模型##模型部署##就业方向#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/a6ecd9c61d2345a0ae12ab5c0cb9892e
+Content: No content
+Full Post Text: 字节跳动首届工程训练营正式启动，涵盖前端、客户端、测试开发三个工程研发方向，我们不看背景，欢迎更多有潜力、热爱技术的同学报名参加【我们欢迎这样的你👊】✨学历要求：不限学历，本硕博均可✨专业要求：计算机、软件、通信、自动化等相关专业优先，或对编程感兴趣，希望通过自学从事工程研发✨技能要求：能熟练掌握Python/Java/C/C++/OC/JavaScript/Rust/Swift/Kotlin等至少一门编程语言✨面向对象：26届、27届、28届同学（毕业时间在2025年9月-2028年8月）👉欢迎投递简历报名：huangyang.luka@bytedance.com （备注训练营）【你将获得👋】✨丰富的资源支持训练营将整合字节跳动公司级技术知识库和专业课程资源，围绕前端、客户端、测试开发三个方向打造课程内容，帮助同学们培养基础工程研发能力，并实现AI时代下工程研发能力的建设和提升。✨字节资深专家带教训练营将邀请抖音、TikTok、剪映、今日头条、飞书、番茄小说、抖音电商、Data、广告业务、国际化商业产品与技术等业务线资深研发专家带教，结合真实业务场景和前沿技术方向，为同学们提供实践机会、专属导师全程陪伴答疑.✨直通校招/实习终面机会训练营结束后，将为每位同学颁发字节跳动专属结营证书，表现优异的同学可直通校招/实习终面，表现突出的同学更有机会直接拿到入职Offer。#实习#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/ae93f082edea4f40ae116b6a1ab9a3e9
+Content: No content
+Full Post Text: 【醒醒吧！别再一股脑扎进后端了！2025计算机就业真相大揭秘】还在幻想“后端=高薪稳定=技术核心”？醒醒吧！现在的后端赛道已经卷成了绞肉机，985/211的学霸们算法岗挤不进去，转身就杀进后端“降维打击”；连硕士大佬都放弃科研梦，拿着扎实的系统功底和分布式项目经验，轻松碾压你苦学三个月的Spring Boot。你以为你在卷简历，其实你只是在给985硕士的offer当陪跑！更扎心的是——后端岗位早已严重供大于求。大厂HC（Headcount）砍了一轮又一轮，中小厂更是“一个萝卜十个坑”，面试官手握几百份简历，清一色985+项目+实习，你连简历关都过不了。即便侥幸上岸，起薪也不过15K-20K，加班到凌晨是常态，35岁危机近在眼前。说白了：后端现在就是“高门槛、低回报、高淘汰”的三高陷阱！但！计算机就业真的没出路了吗？错！真正被严重低估、极度缺人、薪资不输后端的黄金赛道，早就悄悄转移了——🔥 **前端**：别再以为前端就是切页面！React/Vue3 + TypeScript + 微前端 + 低代码平台 + WebAssembly，现代前端早已是工程化、架构级的技术战场。大厂前端HC充足，中小厂更是求贤若渴，应届生起薪轻松20K+，资深前端年薪50W+比比皆是。关键是——竞争小！985学霸看不上，算法转岗嫌“不够底层”，反而给踏实学技术的人留足了空间！📱 **客户端（iOS/Android）**：移动开发真的凉了吗？大错特错！鸿蒙生态爆发、出海App狂潮、AR/VR新场景崛起，客户端工程师成了香饽饽。尤其iOS，人才断层严重，一个能搞定SwiftUI+性能优化+跨端方案的开发者，大厂抢着给30K+。Android在海外更是刚需，薪资涨幅跑赢后端不是梦！🧪 **测试开发（测开）**：别再把测开当“点点点”！如今的测开=自动化+效能工程+质量中台+DevOps，Python/Go/Java全栈写脚本，CI/CD流水线信手拈来。大厂测开岗常年招不满，HC多到HR主动挖人，应届生起薪对标后端，3年经验轻松30K+。关键是——压力小、稳定性高、35岁照样吃香！**现实很残酷：后端已成红海，前端/客户端/测开才是蓝海！**那些还在死磕Java八股文、背Redis底层原理、刷LeetCode到秃头的人，可能还不知道：隔壁学前端的同学已经拿下了3个offer，搞iOS的室友入职即配期权，转测开的学姐每天准点下班还涨薪30%……**别用战术上的勤奋，掩盖战略上的懒惰！**2025年，选对赛道比盲目努力重要100倍。与其在后端的血海里当炮灰，不如抓住前端、客户端、测开的人才红利期——竞争小、需求旺、薪资高、前景稳。现在转方向，你还有机会成为“稀缺人才”；再犹豫半年，可能连蓝海都要变红海！**记住：风口不在你熟悉的舒适区，而在别人还没挤进去的缺口里。**放下对“后端光环”的执念，拥抱真正缺人的赛道——你的简历，值得更好的选择！
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/94f1573b0f984a0eb836bd4fa2298791
+Content: No content
+Full Post Text: 现在大二，绩点在保研线里，卷绩点卷得很迷茫，不知道要不要争这个保研还是直接本科就业。肯定不考研不考公。想简单说下自己的情况听听大家的意见：在学校有尝试科研，hci方向；卷绩点还有一个原因是想之后申请全奖留学：不希望牺牲健康换金钱；考虑过央国企，但是能做什么岗位，具体多少薪资还不了解；不知道以后是做算法还是开发，这也是犹豫要不要读研的原因之一；如果选择开发，后端or前端；虽然不是我秋招但看得还是越来越焦虑必须考虑下未来了，如果本科就业的话就得尽快准备，可是想越乱一直没个定数 。希望大家可以给我一些建议，谢谢大家❤️#你会选择考研还是直接就业#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/257c67ed380f45cda277dfd9a08bf777
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/7c5054e179dd43e08630f7da35f9a0de
+Content: No content
+Full Post Text: 本人26届前端开发 求各位佬选一下offer本人属于不太想躺平但也怕卷不过别人的类型 外加上自己本身身体素质较差 还是希望后续工作强度不要太高的 那么基于这样的情况我应该选哪个更好呢求各位大佬路过 帮忙分析选择一下 听劝听劝（ps：base都是上海 其中租房成本jd偏低 其他都地处核心地段 租房成本高）#现在前端的就业环境真的很差吗##选offer##开发##前端##牛客AI配图神器#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/9a4767b8c85249a7a4a30affa11e086d
+Content: No content
+Full Post Text: 50min 八股+项目+场景1.react和vue的区别2.文件解析上传预览3.pdf里面如果有表格怎么处理4.前端的pdf.js 结合自定义逻辑设计5.如何评估准确率，性能优化指标6.解析过程中会在浏览器中添加缓存吗7.前端开发这一块 如何利用ai8.怎么保证上传过程中的数据安全性9.开发一个类似Notion的协同文档编辑，有多个用户同时编辑一个文本时会发生内容冲突，如何解决10.协同文档编辑设置时钟的话，具体的时间戳怎么设计11.协同文档编辑CRDT12.假设两个用户都在编辑后 怎么把数据安全显示出来13.大文件上传会用到上传队列吗14.大文件上传中用到接口设计是怎么样的15.大文件上传中展示进度条怎么设计#前端##CVTE##面试##面试问题记录##秋招##校招##视源股份##互联网##大厂#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/fd380d4f0093463686f2bf80a68d1bcf
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/0fe7cfd646084390a55378cca01b6c05
+Content: No content
+Full Post Text: 🕐面试时间：10月14号，20分钟💻面试岗位：Java开发❓面试问题：1. 自我介绍2. == 和 equals 的区别3. 在接口（interface）中可不可以写有具体实现的方法4. Redis 用的是哪些数据结构，使用的场景是什么5. ArrayList 和 LinkedList 的区别6.@RestController和 @Controller 有什么区别7. Java 中创建线程的方法8. 线程中的 start 和 run 方法有什么区别9. 讲讲常见的设计模式10. 单例模式有哪些应用场景，Spring 中哪里用到了单例模式11. 你是怎么自定义全局异常处理的12. sql 注入的概念了解吗13. 你是怎么分析慢 sql 的原因，以及要如何优化14. 讲讲数据库的执行计划15. 了解过 Linux 吗16. 前端框架掌握得怎么样🙌面试感想：就是个外包小公司的实习面试，问的都很简单，给的钱也非常少，过了也没去#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/d8c326240cce4e5c9ce224436bc7ef3c
+Content: No content
+Full Post Text: 分享出来希望可以帮到大家！一面约1h20分钟1. 自我介绍2. 八股- CDN缓存会缓存多久？- 为什么TCP三次握手就够了，不需要第四次？- 对HTTP有多少了解？HTTP自定义header的场景，如何使用？3. 项目4. 题目- 逻辑推理题：夫妻握手- 代码输出：this指向问题- 实现promiseHalf5. 其他- 学习前端的原因和过程6. 反问- 通面，可以自选base地（重庆， 北京， 杭州）二面全程约1h20min1. 自我介绍2. 项目3. 八股- Redux怎么实现状态管理？store如何更新状态？4. ai coding- 开发一个trae编辑器的智能体，能够根据输入（比如实现简单页面开发）生成lynx代码, 不限制方法，限时30min5. 其他- 哪一门课程印象比较深刻？具体讲讲三面时长约1h1. 自我介绍2. 项目3. 场景题打开网页直接让你操作4. 八股- 图片格式/处理- 和项目相关的八股5. 其他6. 反问HR面常规hr面面试题，大约30min懂车帝，一个从面试内容到通过速度都令人震惊的公司…每一面的面试官都很好，对接的hr也超级好！每次面试完都留给我很多思考🤔谁懂面试完不到一天就收到offer的救赎感和震撼感…#发面经攒人品##牛客解忧铺#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/f2942219ccc94781bb15dfdc3b14a8f3
+Content: No content
+Full Post Text: 先是填一张招聘信息表+笔试1.讲一下上一次实习期间负责的东西，还有遇到的问题和解决方法2.讲一下慢查询定位优化，还有索引失效的几种情况3.讲一下JVM的内存结构4.讲一下mysql的隔离级别，还有在各个级别会出现什么问题，分别是怎么解决的5.讲一下MVCC机制6.讲一下CAS和AQS锁思想7.讲一下JUC包的几种常用方法还有原理8.讲一下三种集合，并详细介绍一下每个集合的常用子类集合，及其底层数据结构9.讲几个线程安全的集合，还有它们的底层原理10.有了解过agent智能体开发吗11.讲一下Springboot的自动装配流程12.讲一下springMVC的从前端到后端数据处理全过13.讲一下你的项目吧，讲一下你觉得这个项目最有代表性的业务是怎么实现的14.你怎么保证消息队列的顺序性和可靠性，有什么兜底手段15.讲一下线程池的7个参数，还有线程池任务处理流程16.讲一下几种拒绝策略，还有核心线程数你是怎么配置的
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/cb16052a5b434a51911560f3734e5463
+Content: No content
+Full Post Text: 上午9点场的，去的早，8点46就开始一面了，到中午12点多主管面面完。目前已成功入池~一面笔试题两道思路动态规划是什么？它和贪心有什么区别？##华为#java的垃圾回收机制？忘了就说说浏览器的垃圾回收机制吧？设计模式了解哪些？除了发布订阅模式，还有什么？不同浏览器之间有什么区别？不同浏览器上开发该怎么办？vue和react使用上区别红黑树b+树？输入url到页面渲染的过程？实习中最有难度的点在哪里？你觉得你和身边人比，最大的优势是什么？手撕  删除链表的倒数第N个节点，（还算比较容易）二面学习前端多久了？怎么学的国家安全这个项目最难的在哪里？展开说说你这个大屏适配有适配不同尺寸吗？怎么适配的？CSS媒体查询，除了设置不同尺寸还能干什么？请求响应拦截器是怎么做的？服务端返回的状态码一般有哪些，如果密码输入错误的话返回的是什么状态码？一般怎么检验用户输入表单的合法性呢？比如邮箱这个输入框？为什么需要大文件上传这个功能？这个大文件有多大，分片怎么分？用了三方开源库吗？我现在浏览器发一个请求给服务端，在五层计网体系中，每一层分别干了什么事，描述这个过程。算法能力怎么样？手撕  字符串S1中是否存在S2字符串的任意全排列字串（用一个Map+滑动窗口就能解决）三面你在国家安全这个项目中起到什么作用？怎么分配工作的？实习过程中有没有遇到跨部门交流？怎么应对的？实习过程中，是否有过主动去承担一些工作，具体说说？在和同事沟通时，有没有出现什么问题？遇到了什么困难？怎么解决？实习项目中有没有遇到排期紧张，做不完的情况。如果有，该怎么做？你的这个自发做的vite迁移工具的效果咋样，有没有得到反馈？为什么vite比nine好。它和webpack的区别呢？它们打包时的体积有多大？webpack不也可以按需加载吗，vite为什么更快更小，它的底层技术有了解吗？说说你对两个技术栈的理解？dayjs用来干啥的？你还有什么要问我的吗？
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/dae1beeef186431e933c13f3d8d93ee6
+Content: No content
+Full Post Text: #我的求职进度条#bg：双非本 985硕士 五段实习（四段大厂，都是后端） + 开源经历（300+star）+ 大模型经验 + 懂前端（前端转的后端），主要考虑杭州的base。不是标题党哈，本人是真有点劝退后端了。究其原因就是后端这边实在是太卷了，从我自己亲身体会可以看出来。1、暑期：本人投递暑期前已有三段实习（其中2段大厂实习）。其中字节和腾讯明确要求我3月份就要到岗（有截图作证），而且字节2月份的时候就打电话给我约面了，最终我字节也是于3月中旬入职暑期（字节base南京，能边上课边实习）。因为我本身还有课在身上，在腾讯面试的时候说了只能五月份到岗，明确感受到面试官对我的热情降下来了，后续泡了1-2周也挂了。暑期暑期，变成了不在暑期的实习，暑期实习总结可以看之前的帖子。2、秋招：本人秋招虽然投递稍微晚一点，基本上是7月底开始大范围投递，这时候提前批基本都在尾声了（提前批没有任何约面），9月份的时候基本上手里就没啥面试了（说好的金9银10呢）。然后在这个时候我是5段实习（四段大厂实习），以为秋招能乱杀，时至今日，也就3个意向在手（BAT一个没有）。挂：① 字节：tt直播二面挂 抖音电商hr面挂 开发者服务二面挂（通过，但后续不推进）。字节我是从基本上8月份开始面试一直面到上周，都挂了，可能运气也差点。抖音电商尤其是面试的时候问了一些例如洗牌算法、尾递归等我不太了解，可能是导致横向被挂的主要原因。字节说白了每一轮都在横向，运气也很重要。抖音电商尤其如此，泡了一个月很是难绷（当初说两天出结果嘻嘻）。② 百度、滴滴、pdd等：笔试挂百度提前批我当时不知道在哪投递，发现原来填了内推码就是提前批，没填就是普通批。普通批有笔试，提前批没笔试，但是我记得三道题我做了1.5还是1.8将近两道题，一直没约面，到目前还在共享中。滴滴笔试没太认真做，因为我投的很早但是一直泡着，后续发笔试的时候手里也有其他意向了，遂放弃。pdd感觉我那次比较难，而且pdd那个我用java过不了，但是用c++同样的思路能过。。③ 腾讯：七次一面挂腾讯由于暑期实习生太多，感觉人均一段腾讯实习一样，听说后续都坐不下了，搬到会议室当工位了（本人同学）。秋招也没啥正经后端部门约我，都是一些机器人部门、ieg游戏后端、wxg搜广推之类的。反正答对了也挂，答不对就更不用说了。问的问题也千奇白怪，有喜欢问思维题的例如倒水问题，有喜欢出一些奇怪的coding题的单例高性能配置刷新、hash算法等等。如果大家想去腾讯，感觉还是转正比较好，秋招机会太少（但是转正率也不高嘻嘻）。意向：① 快手：快手电商杭州转正，早早转正，组里也保温，目前top1。当然强度很大，懂得抖动。② 美团（9月初oc）：早早1-2周内速通，也有人过来保温，c端业务感觉很香，目前没开奖。③ 京东（大概9月底-10月初阶段oc）：oc了京东一个不知名的部门，一开始是京东零售一面问了一些点没答上来，然后泡两周挂了。重新一个部门1-2周速通，线下去的南京hr面，hr面的时候基于前人的经验表示自己投递比较晚，手里没有其他offer，遂oc（京东hr面的时候得表达自己对京东的忠心）。hr面：④ xhs：8.29投递，10.14 才四面完，目前没泡出来，商业技术。xhs流程是真的慢，感觉自己要泡死了。总结：我大约在9月份的时候手里就没啥面试了，所以后续也投递了一些例如b站、蚂蚁啥的，反正都没有啥约面的。基本只要有hr约我，我都会去面，手里也就oc了这3个意向，陆陆续续忙碌几个月，最终大概率还是去快手转正了。字节又重新开始一面了（难绷）。基于我个人的BG，我觉得首先学历越来越成为后端的一项门槛（重要考虑因素），我双非本985硕尚且如此，更何况很多双非本的同学呢。说起来，最近我有个学妹前端实习转正失败，后突然保研上岸一所211，我给她的建议是你到时候毕业不要做前端了，我说现在已经很卷了，2年后、3年后我不敢想是什么场景。身边985本硕的同学秋招也很失败，没有想象中那么好拿，暑期和秋招区别也确实很大，运气也是很重要的一环。然后也是建议后来人秋招早做准备（投递早很重要），自己卷那么多实习其实也是因为本科学历不好，想开大包，现在看来也不用这么卷，实习段数不重要，大概1-2段即可，投递的早机会大一点。然后最好是暑期转正就去自己想去的部门，这样秋招不至于太焦虑。然后现在没有oc的也没关系，很多人早早投递拿了意向所以暂时hc不多，待开奖后释放，还是有不少机会的，肯定是能上岸的，就是周期会长一点。跟🐖佬、timeErrors、壹宇各位大佬都经常聊天感觉大家都是很好的人，也感谢有这么一个牛客的平台供大家交流（薅了2000牛币），所有的私信我都会回。秋招也就告一段落，愿大家都上岸自己想去的公司，共勉。最后附上我的哈吉米~最近躺平，瓦（找妈妈游戏）也打到神话了，这下是真大结局了
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/38ac7e21c0a142f1a73a38a43e9e4993
+Content: No content
+Full Post Text: 谈薪 base地等开放性问答：前端开发者该做什么？和客户对接可能出现什么问题，如何解决？js的问题：css如何让元素显隐promises相关vue3的钩子函数/vue2的混入特性vue路由守卫年包只能给到8-14，在上海有点难生存啊😅
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/587a097674414e29ab8f0a848d24f163
+Content: No content
+Full Post Text: 美团开奖了，谁说测开比后端薪资低？谁说前端比后端薪资低？好了你又要说后端可以争取sp、ssp，但是能拿到美团白菜offer的就已经算是人中龙凤了，拿到sp、ssp更是凤毛麟角！依旧劝退后端！你后端学历内卷炼狱！实习经历卷的爆！甚至无法入行！入行了也只是和测开、前端的一般！1.学历，最痛的一击！后端工程师的第一步，走得不是技术，而是学历！想要进入大厂？好好看清楚自己的身份证：没有名校背景，别想着进美团、字节、腾讯！ 面试官看你的第一眼就会想：“呵，去，给你点面试机会，看看你的技术！”什么？你说自己有技术？不好意思，来点GitHub链接，Project经历，能让面试官笑着赶你走。你没个985、211，双一流，根本就无法站稳在这场技术竞赛的起点。你想进大厂，没学历，没技术！永远只有一个词—— “被无情拒绝”。2. 薪资：你不过是和前端、测开的一匹马“后端工程师薪资高？能进SSP就是牛逼！”SSP？ 听起来像是你梦想的银河，但实际上能拿到这个级别的人 凤毛麟角，除非你在面试官面前像神话人物一样打了个响指，否则你连SSP的尾巴都摸不着。至于你说的“前端薪资不高”？别逗了，前端都在笑你呢， 他们搞个页面，工资比你写个亿级请求接口还多。你说你辛辛苦苦优化API、调度缓存，别人搞个UI设计就能多拿几千块。前端已经不止是个展示层了，他们赚得比你还轻松，而你不过是服务器上疯狂跑“CRUD操作”的那只笨重的工蚁。3. 后端的真正意义：修 Bug，解决问题，下一份工作还是修 Bug有多少人觉得后端是系统架构、数据库优化的高端战场？醒醒吧！ 后端的真正使命：维护旧项目，修复别人留下的烂摊子。你觉得自己能构建一个完美的系统？不！你只会一边修复技术债务，一边打着 “重构” 的旗号，换来的是 “重构再重构” 的无尽循环。而且，别告诉我你能专心写代码。你又要写代码，又要看服务器日志，没事还得帮别人 修崩的数据库，给前端数据源做“格式化”。你就是那块永远处于消耗型工作的 “万金油”。4. 晋升？哈哈哈，你是在做梦！你以为后端开发是一条顺风顺水的快速晋升路线？错！ 你永远只能在一个“程序员”的岗位上打转，或者你为自己设立目标：“我要成为架构师”，那真的是在妄想。架构师？高级开发？靠近那条道路，你的心脏会先被晋升难度给捏住，你前方只有一座座高不可攀的技术山。别看那些SSP，架构师，架构啥呀？公司里的架构都是前端架构师，你就坐在后端的角落里，照顾着你那些满是错误的API和服务器。5. 加班？还是加班！你以为后端开发能像文艺片那样“偶尔加个班”？哈哈，傻了吧！ 后端开发的生活是无休止的加班和修bug，你不仅要写接口，还得守夜调度、监控系统性能。就连你写的那个“完美的数据库查询”，也可能在 第二天 被前端因为“页面卡顿”给打回原形。“没有加班，你还能吃什么饭？”你说你是程序员，结果你的生活全是 熬夜加班、调试、重启。前端跑个页面，喝个咖啡就能过关，而你呢，熬夜跟数据库调试，最后还是那个穷忙的死循环。6. 技术天花板：架构？技术深度？笑死了！后端开发的天花板？那不过是个永远也摸不着的架构师“梦想”，你能掌握几款框架、几种数据库、两三套微服务架构，最后也不过是个 管理端的“搬运工”。你没办法“打破天花板”，更没有机会跳出“自己写个爬虫”或者“API接口”的死循环。技术深度？你也不过是 “技术债务”的修复者，一天到晚都在修补“老旧系统”的缺陷，偶尔听前端同学聊聊他们React、Vue的最新版本，你根本无法理解他们说的是什么。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/af73d46585c8489d9d91f5b3dbf16295
+Content: No content
+Full Post Text: 1.介绍一下实习具体做的哪方面内容，后台方面主要参与了哪些模块2.有参与过比如索引、推送相关的工作吗，比如关键词对小说的索引3.你在检索小说时是直接通过数据库还是其他方式实现的4.那比如现在有一个数据量非常大，比如说几十万字的小说，那你是如何去存储的，如何去做检索5.你们的网文平台是 app 还是 web6.那是通过章节来加载还是通过用户每次翻动来加载固定量的内容呢7.那回到索引，除了数据库之外你有考虑过用其他方式去做索引吗，比如说现在有很多用户在同时索引，那你们的服务器能承担多大的负荷，这个你们前有做过压测吗8.那用户在浏览时，web 是动态地加载数据，还是把这个数据用某种静态的方式比如 html 去给到前端呢9.我看你简历中写实习中还有用到排序，你这个排序具体是用在什么场景10.那你们这个最后的排序是有人工参与还是智能算法
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/116bd38d7fc448d3bc94b4691e1895ad
+Content: No content
+Full Post Text: 简单的自我介绍！前端和 ai 的结合怎么实现方案？怎么训练模型?怎么写 prompt?Ai会不会替代前端工程师?React 、Vue,各自适合的项目?优势与异同?Vue3 对于 jsx,的使用前端工程化使用过与哪些工具?Webpack和 vite,各自试用的项目?优缺点?Webpack与 vite,速度比较?项目难点是什么?#牛客AI配图神器#生产中如何定位问题解决?前端监控工具使用?监控系统不用等用户反馈就能发现问题?怎么保证自己的代码质量?项目性能的优化?虚拟列表是用的框架还是自己搓的轮子?列表里面还有表单 虚拟列表会导致卡顿吗?虚拟滚动哪些框架实现了?复杂表单联动联动该怎么开发?有过什么框架来做表单?未来 1-2 年对于前端发展有什么想法?更长远一点的规划?“前端开发工程师的瓶颈是什么?人工智能这个专业对于你前端开发有什么帮助?学人工智能来做前端是不是大材小用了?
+Comments:
+
+==================================================
+

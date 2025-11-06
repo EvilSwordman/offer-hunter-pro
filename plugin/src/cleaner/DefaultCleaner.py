@@ -1,14 +1,18 @@
 import re
 import time
 import emoji
+from pathlib import Path
 
 def process_files(input_files, output_prefix):
-    all_results = []
     for file_path in input_files:
         result = []
         now = time.strftime("%Y-%m-%d", time.localtime())
         file_name = f"{file_path}_{now}.txt"
-        with open(file_name, 'r', encoding='utf-8') as file:
+        # Input directory Data/origin under project root
+        project_root = Path(__file__).resolve().parents[3]
+        origin_dir = project_root / 'Data' / 'origin'
+        input_file_path = origin_dir / file_name
+        with open(input_file_path.as_posix(), 'r', encoding='utf-8') as file:
             lines = file.readlines()
             i = 0
             while i < len(lines):
@@ -17,10 +21,12 @@ def process_files(input_files, output_prefix):
                     if full_post_text:
                         result.append(full_post_text)
                 i += 1
-            all_results.extend(result)
-        output_file_name = output_prefix + file_path + '.txt'
-        with open(output_file_name, 'w', encoding='utf-8') as output_file:
-            for text in all_results:
+        # Ensure output directory Data/cleaned exists under project root
+        cleaned_dir = project_root / 'Data' / 'cleaned'
+        cleaned_dir.mkdir(parents=True, exist_ok=True)
+        output_file_name = cleaned_dir / (output_prefix + file_path + '.txt')
+        with open(output_file_name.as_posix(), 'w', encoding='utf-8') as output_file:
+            for text in result:
                 output_file.write(text + '\n')
 
 

@@ -1,147 +1,248 @@
 import datetime
+import re
 import time
+import json
+from pathlib import Path
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from DbUtils import DBUtils
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-browser = webdriver.Chrome()
-city_map = {
-    "北京": ["北京"],
-    "天津": ["天津"],
-    "山西": ["太原", "阳泉", "晋城", "长治", "临汾", "运城", "忻州", "吕梁", "晋中", "大同", "朔州"],
-    "河北": ["沧州", "石家庄", "唐山", "保定", "廊坊", "衡水", "邯郸", "邢台", "张家口", "辛集", "秦皇岛", "定州",
-             "承德", "涿州"],
-    "山东": ["济南", "淄博", "聊城", "德州", "滨州", "济宁", "菏泽", "枣庄", "烟台", "威海", "泰安", "青岛", "临沂",
-             "莱芜", "东营", "潍坊", "日照"],
-    "河南": ["郑州", "新乡", "鹤壁", "安阳", "焦作", "濮阳", "开封", "驻马店", "商丘", "三门峡", "南阳", "洛阳", "周口",
-             "许昌", "信阳", "漯河", "平顶山", "济源"],
-    "广东": ["珠海", "中山", "肇庆", "深圳", "清远", "揭阳", "江门", "惠州", "河源", "广州", "佛山", "东莞", "潮州",
-             "汕尾", "梅州", "阳江", "云浮", "韶关", "湛江", "汕头", "茂名"],
-    "浙江": ["舟山", "温州", "台州", "绍兴", "衢州", "宁波", "丽水", "金华", "嘉兴", "湖州", "杭州"],
-    "宁夏": ["中卫", "银川", "吴忠", "石嘴山", "固原"],
-    "江苏": ["镇江", "扬州", "盐城", "徐州", "宿迁", "无锡", "苏州", "南通", "南京", "连云港", "淮安", "常州", "泰州"],
-    "湖南": ["长沙", "邵阳", "怀化", "株洲", "张家界", "永州", "益阳", "湘西", "娄底", "衡阳", "郴州", "岳阳", "常德",
-             "湘潭"],
-    "吉林": ["长春", "长春", "通化", "松原", "四平", "辽源", "吉林", "延边", "白山", "白城"],
-    "福建": ["漳州", "厦门", "福州", "三明", "莆田", "宁德", "南平", "龙岩", "泉州"],
-    "甘肃": ["张掖", "陇南", "兰州", "嘉峪关", "白银", "武威", "天水", "庆阳", "平凉", "临夏", "酒泉", "金昌", "甘南",
-             "定西"],
-    "陕西": ["榆林", "西安", "延安", "咸阳", "渭南", "铜川", "商洛", "汉中", "宝鸡", "安康"],
-    "辽宁": ["营口", "铁岭", "沈阳", "盘锦", "辽阳", "锦州", "葫芦岛", "阜新", "抚顺", "丹东", "大连", "朝阳", "本溪",
-             "鞍山"],
-    "江西": ["鹰潭", "宜春", "上饶", "萍乡", "南昌", "景德镇", "吉安", "抚州", "新余", "九江", "赣州"],
-    "黑龙江": ["伊春", "七台河", "牡丹江", "鸡西", "黑河", "鹤岗", "哈尔滨", "大兴安岭", "绥化", "双鸭山", "齐齐哈尔",
-               "佳木斯", "大庆"],
-    "安徽": ["宣城", "铜陵", "六安", "黄山", "淮南", "合肥", "阜阳", "亳州", "安庆", "池州", "宿州", "芜湖", "马鞍山",
-             "淮北", "滁州", "蚌埠"],
-    "湖北": ["孝感", "武汉", "十堰", "荆门", "黄冈", "襄阳", "咸宁", "随州", "黄石", "恩施", "鄂州", "荆州", "宜昌",
-             "潜江", "天门", "神农架", "仙桃"],
-    "青海": ["西宁", "海西", "海东", "玉树", "黄南", "海南", "海北", "果洛"],
-    "新疆": ["乌鲁木齐", "克州", "阿勒泰", "五家渠", "石河子", "伊犁", "吐鲁番", "塔城", "克拉玛依", "喀什", "和田",
-             "哈密", "昌吉", "博尔塔拉", "阿克苏", "巴音郭楞", "阿拉尔", "图木舒克", "铁门关"],
-    "贵州": ["铜仁", "黔东南", "贵阳", "安顺", "遵义", "黔西南", "黔南", "六盘水", "毕节"],
-    "四川": ["遂宁", "攀枝花", "眉山", "凉山", "成都", "巴中", "广安", "自贡", "甘孜", "资阳", "宜宾", "雅安", "内江",
-             "南充", "绵阳", "泸州", "凉山", "乐山", "广元", "甘孜", "德阳", "达州", "阿坝"],
-    "上海": ["上海"],
-    "广西": ["南宁", "贵港", "玉林", "梧州", "钦州", "柳州", "来宾", "贺州", "河池", "桂林", "防城港", "崇左", "北海",
-             "百色"],
-    "西藏": ["拉萨", "山南", "日喀则", "那曲", "林芝", "昌都", "阿里"],
-    "云南": ["昆明", "红河", "大理", "玉溪", "昭通", "西双版纳", "文山", "曲靖", "普洱", "怒江", "临沧", "丽江", "红河",
-             "迪庆", "德宏", "大理", "楚雄", "保山"],
-    "内蒙古": ["呼和浩特", "乌兰察布", "兴安", "赤峰", "呼伦贝尔", "锡林郭勒", "乌海", "通辽", "巴彦淖尔", "阿拉善",
-               "鄂尔多斯", "包头"],
-    "海南": ["海口", "三沙", "三亚", "临高", "五指山", "陵水", "文昌", "万宁", "白沙", "乐东", "澄迈", "屯昌", "定安",
-             "东方", "保亭", "琼中", "琼海", "儋州", "昌江"],
-    "重庆": ["重庆"]
-}
-# 打开 boss 首页
-index_url = 'https://www.zhipin.com/?city=100010000&ka=city-sites-100010000'
-browser.get(index_url)
+# ================ 推荐复用chrome已登录窗口，免风控 ================
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
+browser = webdriver.Chrome(options=chrome_options)  # 如未用调试端口也可直接webdriver.Chrome()
 
-# 模拟点击 互联网/AI 展示出岗位分类
-show_ele = browser.find_element(by=By.XPATH, value='//*[@id="main"]/div/div[1]/div/div[1]/dl[1]/dd/b')
-show_ele.click()
+rows = []
+
+
+# 具体岗位的URL列表
+category_urls = [
+    'https://www.zhipin.com/web/geek/jobs?query=&city=100010000&position=100101',  
+    'https://www.zhipin.com/web/geek/jobs?query=&city=100010000&position=100901',  
+    'https://www.zhipin.com/web/geek/jobs?query=&city=100010000&position=101310',
+    'https://www.zhipin.com/web/geek/jobs?query=&city=100010000&position=110101'
+]
 
 today = datetime.date.today().strftime('%Y-%m-%d')
 
-for i in range(20):
-    current_a = browser.find_elements(by=By.XPATH, value='//*[@id="main"]/div/div[1]/div/div[1]/dl[1]/div/ul/li/div/a')[
-        i]
-    current_category = current_a.find_element(by=By.XPATH, value='../../h4').text
-    sub_category = current_a.text
-    print("{}正在抓取{}--{}".format(today, current_category, sub_category))
-    browser.find_elements(by=By.XPATH, value='//*[@id="main"]/div/div[1]/div/div[1]/dl[1]/div/ul/li/div/a')[i].click()
-    # 模拟滑动页面
-    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    time.sleep(10)
-    # 模拟滑动页面
-    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    job_detail = browser.find_elements(by=By.XPATH,
-                                       value='//*[@id="wrap"]/div[2]/div[2]/div/div[1]/div[2]/ul/li')
-    for job in job_detail:
-        # 获取数据库连接
-        db = DBUtils('localhost', 'root', '123456', 'spider_db')
-        # 岗位名称
-        try:
-            job_title = job.find_element(by=By.XPATH, value="./div[1]/a/div[1]/span[1]").text.strip()
-        except:
-            continue
-        # 工作地址
-        job_location = job.find_element(by=By.XPATH, value="./div[1]/a/div[1]/span[2]/span").text.strip()
-        # 企业名称
-        job_company = job.find_element(by=By.XPATH, value="./div[1]/div/div[2]/h3/a").text.strip()
-        # 行业类型
-        job_industry = job.find_element(by=By.XPATH, value="./div[1]/div/div[2]/ul/li[1]").text.strip()
-        # 融资情况
-        job_finance = job.find_element(by=By.XPATH, value="./div[1]/div/div[2]/ul/li[2]").text.strip()
-        try:
-            # 企业规模
-            job_scale = job.find_element(by=By.XPATH, value="./div[1]/div/div[2]/ul/li[3]").text.strip()
-        except:
-            job_scale = "无"
-        try:
-            # 企业福利
-            job_welfare = job.find_element(by=By.XPATH, value="./div[2]/div").text.strip()
-        except:
-            job_welfare = '无'
-        # 薪资范围
-        job_salary_range = job.find_element(by=By.XPATH, value="./div[1]/a/div[2]/span[1]").text.strip()
-        # 工作年限
-        job_experience = job.find_element(by=By.XPATH, value="./div[1]/a/div[2]/ul/li[1]").text.strip()
-        # 学历要求
-        job_education = job.find_element(by=By.XPATH, value="./div[1]/a/div[2]/ul/li[2]").text.strip()
-        # 技能要求
-        try:
-            job_skills = ','.join(
-                [skill.text.strip() for skill in job.find_elements(by=By.XPATH, value="./div[2]/ul/li")])
-        except:
-            job_skills = '无'
-        province = ''
-        city = job_location.split('·')[0]
-        for p, cities in city_map.items():
-            if city in cities:
-                province = p
-                break
-        print(current_category, sub_category, job_title, province, job_location, job_company, job_industry, job_finance,
-              job_scale, job_welfare, job_salary_range, job_experience, job_education, job_skills)
-        # 保存到 MySQL 数据库
-        db.insert_data(
-            "insert into job_info(category, sub_category,job_title,province,job_location,job_company,job_industry,job_finance,job_scale,job_welfare,job_salary_range,job_experience,job_education,job_skills,create_time) values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",
-            args=(
-                current_category, sub_category, job_title, province, job_location, job_company, job_industry,
-                job_finance,
-                job_scale, job_welfare, job_salary_range, job_experience, job_education, job_skills, today))
-        db.close()
+for category_url in category_urls:
     try:
-        # 退回到首页
-        browser.back()
-        # 模拟点击 互联网/AI 展示出岗位分类
-        show_ele = browser.find_element(by=By.XPATH, value='//*[@id="main"]/div/div[1]/div/div[1]/dl[1]/dd/b')
-        show_ele.click()
-    except:
-        browser.get(index_url)
-        # 模拟点击 互联网/AI 展示出岗位分类
-        show_ele = browser.find_element(by=By.XPATH, value='//*[@id="main"]/div/div[1]/div/div[1]/dl[1]/dd/b')
-        show_ele.click()
-time.sleep(10)
+        print(f"{today}正在抓取: {category_url}")
+        
+        # 直接访问小类URL
+        browser.get(category_url)
+        
+        # 等待页面加载
+        WebDriverWait(browser, 20).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        time.sleep(3)
+        
+        # 检查是否有安全验证
+        page_source = browser.page_source
+        if "安全验证" in page_source or "验证身份" in browser.title or "滑动完成验证" in page_source:
+            print(f"检测到风控页面/安全验证，跳过: {category_url}")
+            continue
+        
+        # 等待职位列表加载
+        time.sleep(3)
+        
+        # 尝试多种选择器查找职位卡片
+        job_detail = []
+        selectors = [
+            'li.job-card-box',
+        ]
+        for selector in selectors:
+            try:
+                job_detail = WebDriverWait(browser, 10).until(
+                    EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
+                )
+                if job_detail and len(job_detail) > 0:
+                    print(f"共找到{len(job_detail)}个职位卡片（选择器: {selector}）")
+                    break
+            except:
+                continue
+        
+        # 如果WebDriverWait没找到，再尝试直接查找
+        if not job_detail:
+            time.sleep(2)
+            for selector in selectors:
+                try:
+                    job_detail = browser.find_elements(By.CSS_SELECTOR, selector)
+                    if job_detail and len(job_detail) > 0:
+                        print(f"共找到{len(job_detail)}个职位卡片（选择器: {selector}）")
+                        break
+                except:
+                    continue
+        
+        if not job_detail:
+            print(f"警告：未找到职位列表元素，URL: {category_url}")
+            continue
+
+        for idx, job in enumerate(job_detail):
+            # 职位名称
+            try:
+                job_title = job.find_element(By.CSS_SELECTOR, "a.job-name").text.strip()
+            except: job_title = ""
+           
+            # 公司
+            try:
+                job_company = job.find_element(By.CSS_SELECTOR, "span.boss-name").text.strip()
+            except: job_company = ""
+            # 地址
+            try:
+                job_location = job.find_element(By.CSS_SELECTOR, "span.company-location").text.strip()
+            except: job_location = ""
+            # 工作年限/学历
+            tag_list = job.find_elements(By.CSS_SELECTOR, ".tag-list li")
+            job_experience = tag_list[0].text.strip() if len(tag_list)>0 else ""
+            job_education = tag_list[1].text.strip() if len(tag_list)>1 else ""
+            # 其他字段
+            job_industry = ""
+            job_finance = ""
+            job_scale = ""
+            job_skills = "无"
+            # 链接
+            try:
+                job_link = job.find_element(By.CSS_SELECTOR, "a.job-name").get_attribute("href")
+            except: job_link = ""
+
+            # 职业描述（详情页）：
+            job_desc = ''
+            if job_link:
+                try:
+                    current_handle = browser.current_window_handle
+                    browser.execute_script("window.open(arguments[0])", job_link)
+                    time.sleep(2)
+                    for h in browser.window_handles:
+                        if h != current_handle:
+                            browser.switch_to.window(h)
+                            break
+                    WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+                    time.sleep(1)
+                    
+                    # 提取职位描述
+                    try:
+                        desc_elem = browser.find_element(By.CSS_SELECTOR, '.job-sec-text')
+                        job_desc = desc_elem.text.strip()
+                    except:
+                        job_desc = ""
+                    # 详情页兜底提取薪资（列表页常见字符混淆）
+                    try:
+                        needs_fix = (not job_salary_range) or any(ch in job_salary_range for ch in ['\uf0f2', '', '', '', '', '', '', '', ''])
+                    except:
+                        needs_fix = True
+                    if needs_fix:
+                        # 1) 详情页头部薪资
+                        try:
+                            header_salary = browser.find_element(By.CSS_SELECTOR, '.job-primary .name .salary').text.strip()
+                            if header_salary:
+                                job_salary_range = header_salary
+                        except:
+                            pass
+                        # 2) window._jobInfo.job_salary
+                        if not job_salary_range:
+                            try:
+                                js_salary = browser.execute_script('return window._jobInfo && window._jobInfo.job_salary ? window._jobInfo.job_salary : null;')
+                                if js_salary:
+                                    job_salary_range = str(js_salary).strip()
+                            except:
+                                pass
+                        # 3) 从 page_source 正则提取 job_salary: 'xxx'
+                        if not job_salary_range:
+                            try:
+                                html = browser.page_source
+                                import re as _re
+                                m = _re.search(r"job_salary\s*:\s*'([^']+)'", html)
+                                if m:
+                                    job_salary_range = m.group(1).strip()
+                            except:
+                                pass
+                    
+                    # 提取行业类型、融资情况、企业规模（从侧边栏公司信息）
+                    # 行业类型 - 在 <p><i class="icon-industry"></i><a>人工智能</a></p> 中
+                    try:
+                        industry_elem = browser.find_element(By.XPATH, '//div[@class="sider-company"]//p[.//i[contains(@class, "icon-industry")]]//a')
+                        job_industry = industry_elem.text.strip()
+                    except:
+                        try:
+                            # 备用方式：直接查找包含industry的p标签下的a标签
+                            industry_elem = browser.find_element(By.XPATH, '//div[@class="sider-company"]//p[contains(.//i/@class, "icon-industry")]/a')
+                            job_industry = industry_elem.text.strip()
+                        except:
+                            job_industry = ""
+                    
+                    # 融资情况 - 在 <p><i class="icon-stage"></i>C轮</p> 中
+                    try:
+                        finance_p = browser.find_element(By.XPATH, '//div[@class="sider-company"]//p[.//i[contains(@class, "icon-stage")]]')
+                        finance_text = finance_p.text.strip()
+                        # 去掉可能的图标字符，只保留融资信息（去掉i标签内的文本）
+                        job_finance = finance_text
+                    except:
+                        try:
+                            # 备用方式：查找包含stage的p标签
+                            finance_p = browser.find_element(By.XPATH, '//div[@class="sider-company"]//p[contains(.//i/@class, "icon-stage")]')
+                            finance_text = finance_p.text.strip()
+                            job_finance = finance_text
+                        except:
+                            job_finance = ""
+                    
+                    # 企业规模 - 在 <p><i class="icon-scale"></i>10000人以上</p> 中
+                    try:
+                        scale_p = browser.find_element(By.XPATH, '//div[@class="sider-company"]//p[.//i[contains(@class, "icon-scale")]]')
+                        scale_text = scale_p.text.strip()
+                        job_scale = scale_text
+                    except:
+                        try:
+                            # 备用方式：查找包含scale的p标签
+                            scale_p = browser.find_element(By.XPATH, '//div[@class="sider-company"]//p[contains(.//i/@class, "icon-scale")]')
+                            scale_text = scale_p.text.strip()
+                            job_scale = scale_text
+                        except:
+                            job_scale = ""
+                    
+                    browser.close()
+                    browser.switch_to.window(current_handle)
+                except Exception as e:
+                    print(f"提取详情页信息失败: {e}")
+                    job_desc = ""
+                    try:
+                        browser.switch_to.window(current_handle)
+                    except:
+                        pass
+
+            if job_location:
+                city = job_location.split('·')[0] if '·' in job_location else job_location
+            print(job_title, job_location, job_company, job_industry, job_finance, job_scale, job_salary_range, job_experience, job_education, job_link)   
+            rows.append({
+                '岗位名称': job_title,
+                '工作地址': job_location,
+                '企业名称': job_company,
+                '行业类型': job_industry,
+                '融资情况': job_finance,
+                '企业规模': job_scale,
+                '薪资范围': job_salary_range,
+                '工作年限': job_experience,
+                '学历要求': job_education,
+                '职业描述': job_desc,
+                '链接': job_link,
+            })
+    except Exception as e:
+        print(f"采集错误: {e}")
+        continue
+
+project_root = Path(__file__).resolve().parents[4]
+boss_dir = project_root / 'Data' / 'boss'
+boss_dir.mkdir(parents=True, exist_ok=True)
+filename = f"Boss直聘_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+out_path = boss_dir / filename
+
+if rows:
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(rows, f, ensure_ascii=False, indent=2)
+    print(f"已写入: {out_path}，共 {len(rows)} 条职位")
+else:
+    print("未采集到数据.")
+
+try: browser.quit()
+except: pass

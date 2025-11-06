@@ -1,4 +1,3 @@
-PyMySQL~=1.1.1
-selenium~=4.21.0
-beautifulsoup4==4.12.2
-requests==2.31.0
+selenium
+beautifulsoup4
+requests

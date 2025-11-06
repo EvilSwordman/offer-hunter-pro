@@ -1,0 +1,800 @@
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/23dcc3bfc2a24689a80314cb7196b586
+Content: No content
+Full Post Text: 一面面试官问八股比较多一些，二面问项目更多，也会穿插项目，二面还有现场给出题目要做，三面是主管面，面试官人都很好，一面每次答完问题对或者不对都会给很好的反馈，面试体验整体很棒，现在已入池一面50分钟，二面45分钟，三面35-40分钟下面是一二面（技术面）面经：实习和项目1.设计的Buck电路拓扑结构，防反接（肖特基二极管）和抗浪涌的实现(先后用了TVS和浪涌保护器)，用TVS和浪涌保护器对应的钳位到的浪涌电压是多少？2.Buck还测试哪些参数（纹波、动态响应、EMI、效率、过冲、上升沿时间、高温）3.实习DC-DC为什么选型TPS534360、电感选型4.Buck的layout需要注意什么（电容电感和DC-DC芯片靠近放置、输入电容靠近引脚、feedback线远离电容电感和芯片等高EMI区域避免干扰、电源线要粗、回流路径短）5.为什么电容电感和DC-DC芯片靠近放置（保证电源信号顺畅回流路径短，并把高EMI设备放在一起远离信号部分）6.对比buck和ldo（成本、layout难度、效率、应用场景）7.计算：分别给了LDO和buck的应用场景，计算效率和损耗8.UART为什么用DMA+IDLE替代中断接收？9.项目中用的四层板介绍？10.实习做过哪些可靠性（静电、电源跌落、高低温、电源反接、过压供电）11.项目硬件的模块拓扑结构（TP4056充电管理、电池、开关机电路、LDO、MCU和其他传感器）12.MPU6050和stm32通信协议（I2C）、通信速率、示波器抓到起始位和结束位波形13.项目中调试用到的设备（示波器、万用表）14.项目调试（分别介绍了DC-DC实习测浪涌和手表项目打板调试的问题）15.用过哪些仿真软件（multisim走天下）16.实习时候EMC专题学习学了什么（静电、浪涌、阻抗不匹配）17.Verilog HDL实现一个序列检测器，大概写思路（我用状态机模型实现）18.Verilog HDL实现一个串口数据帧，大概写思路（我用状态机模型实现）八股1.CMOS和TTL电平标准对比，两者噪声容限情况，TTL能否驱动CMOS？2.介绍传输线模型3.什么是竞争冒险现象4.ADC的分辨率的意义，10位分辨率对应精度是供电电压的多少分之一？5.PLL组成部分（只记得三部分，有一部分是鉴相器了）6.阻抗匹配（始端匹配、终端匹配）7.layout要注意哪些问题？（3W、圆滑、钝角走线、隔层不要平行走线、数字和模拟隔开、大能量电源线粗回流路径要短）8.手撕：用运放搭建减法器电路9.手撕：画出射极跟随器电路10.手撕：画出buck和boost拓扑结构，并写出Vin和Vout关系11.手撕：求一道运放类电路的Vin和Vout关系（深度负反馈虚短虚断秒了）二面反问：1.海思对新人的培养机制和流程2.如果能入职，需要补充学习什么？3.未来三年海思的发展规划主管面确实忘了问的啥了，只记得自己反问的问题反问：1.海思的工作强度和企业文化2.华为海思工作地点，上海青浦？3.贵公司最看重应届生的哪些素质？#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/984a17f174294f30aae6f9ce4a1aba8a
+Content: No content
+Full Post Text: #上班后，才发现大学__白学了#：代码！作为嵌入式开发实习生，上班第一天就被现实狠狠上了一课。大学写的代码优雅简洁，注释工整，主打一个“学术正确”；职场里的代码，要适配奇奇怪怪的硬件，兼容五花八门的协议，还得扛住现场各种突发bug，主打一个“能跑就行”。原来课本里的最优解，在车间里可能不如一句“先试试重启”管用。果然，实践才是嵌入式的终极教科书！
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/5c59d58bc3154a68b5ad3a766c5b84cd
+Content: No content
+Full Post Text: 由于是开发转测试，给面试官看懵逼了#牛客AI配图神器#面经在此：1. 你是从什么时候开始决定从事测试开发这个方向的？2. 请讲一讲你所了解的软件测试相关的基础理论和常见测试设计方法。3. 具体解释一下这些理论和方法的定义4. 在你之前的经历或实习中，是否有机会将所学的测试理论和方法付诸实践，进行演练或实际操作？5. 在你提到的项目中，测试工作是由谁负责的？你个人在其中承担了什么角色？6. 你觉得从开发视角和测试视角来看，对于同一个需求或一个功能模块，会有什么根本性的不同？7. 这种视角的不同，在实际工作中会具体体现在哪些方面？8. 针对一个支付功能，你会考虑哪些测试场景？（例如：支付超时怎么办？重复支付会扣两次钱吗？用户突然断网怎么办？）10. 你负责开发的这个功能，代码量大概是多少？11. 这个功能提测后，发现了多少个Bug？12. 在你实习期间，平均一周需要负责多少个需求或任务？13. 互联网行业的测试具备哪些特性和挑战？它与传统行业（如硬件、嵌入式）的测试有什么区别？14. 你之前接触或了解的自动化测试程度是怎样的？使用了哪些工具或框架？15. 你具体了解了哪些内容？16. 在你理解中，测试开发岗位中，“测试”工作和“开发”工作的占比大概是怎样的？
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/6602a1f0ed0b449f9359c5d37ae49414
+Content: No content
+Full Post Text: 开发临时转测试，拿了一个8k的测试（偏硬件），感觉太少了，现在逼签三方，要不要签了当保底
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/7890d4c909d342f18e4d8bc6152a4ac2
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/01b5e90df1644c87b0331e00095bfaad
+Content: No content
+Full Post Text: #你实习是赚钱了还是亏钱了？#我选血亏难崩，作为一名嵌入式开发实习生，每天的生活就是和单片机、传感器、电路板“斗智斗勇”。为了调通一个驱动程序，买开发板、元器件花了大几百；通勤路上挤地铁，月交通费能抵半个月工资；熬夜改BUG时，咖啡钱更是像流水一样花出去。本以为实习能赚点生活费，结果工资刚到手，转眼就贡献给了硬件耗材和生活开销。别人实习是积累经验+赚钱，我是积累脱发+亏钱。但看着自己写的代码让硬件成功运行起来，又觉得这“血亏”的经历，好像也藏着点嵌入式人的浪漫——毕竟我们在拿钱包换技术成长的路上，从未停下脚步~
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/ce0e36331ed24bdbb19585c18ff6a599
+Content: No content
+Full Post Text: 👋个人背景：双非硕offer1：龙旗 base 上海，ODM（网上风评不太好），14k*（13-15），公积金单边7%六险一金按全额交，每月餐补500+，但在上海租房和消费水平都很高，租房费用可能是其他offer base地的2-3倍offer2：高标科技 base 东莞，主要业务是电动车类的，14*（13-15）底薪➕绩效82开，公积金单边5%五险一金按5k交，两年包吃住
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/a02a630ef3e84ca89637cabe3ab880a7
+Content: No content
+Full Post Text: 标题党一下orz双非本通信工程，日本qs200硕医疗图像处理方向的lab，目前研0，还剩下4个月gap。因为对国内消费电子领域非常感兴趣，考虑到未来回国就业，想最后3个月再找一段叫得上名字的中大厂实习，选什么岗位方向机会更大点呢?本科期间大把时间都花在学生工作上了，负责并组织了很多次学校活动的视频拍摄，也拍出了很多很牛的宣传片。但一方面专业不相关，一方面不喜欢传媒行业的氛围，回到本专业找工作这些经历似乎连写进简历都不配了目前软件方向有c++和python的基础，上一段小公司实习做过一些数据库增删改查和点点点，毕设做的深度学习图像超分，会写点简单的python自动化脚本；硬件方向在学校摸过各种仪器，有一些简单课设，会一点ad画板子和multisim跑仿真；嵌入式的话，现在在一家芯片中小厂实习做嵌软sdk测试，搞一些测试板的压测，还有yolo模型转换部署的效果验证之类的...目前看下来，因为硕士的研究方向差太远，硬件开发方向应该是不太合适，是刷leetcode往软件测开→开发方向走？还是抓紧借助这段实习的资源掌握一两个Linux方向的嵌入式项目，往嵌软开发方向走？又或者研究研究，往偏硬件的质量or产品方向走？想请教请教有经验的前辈这些方向有没有可能走通，如果可能的话还是想拼一把，好好准备折腾一个月；没可能的话，再去叫不上名字的小厂实习感觉也意义不大，大概就只能摆烂留日了😭#牛客AI配图神器#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/b946c2672b75407ba5f5a527808502e9
+Content: No content
+Full Post Text: #i人适合做什么工作#作为刚毕业的i人，真的怕那种天天要跟人掰头、开会要抢着发言的工作，一想到就头皮发麻！但别慌，咱们这种爱专注、能沉下心的性格，在很多岗位上都是“天选打工人”！比如我学的嵌入式开发就超对口，平时大部分时间对着代码和硬件，跟单片机、传感器打交道比跟人闲聊舒服多了。写驱动程序、调试电路板，安安静静待在工位上就能推进项目，不用被迫social，只要把技术活儿干明白，就是团队里的靠谱担当。除了这个，还有很多适合i人的工作。像程序员就不用多说了，后端、算法岗都是靠实力说话，沟通主要靠文档和代码评审，不用天天应酬；还有图书管理员，跟书籍打交道，整理文献、维护借阅秩序，环境安静，节奏舒缓，社恐星人狂喜；平面设计师也很可，前期跟客户确认需求后，大部分时间都是自己闷头创作，用作品说话，不用费口舌去“推销”自己；甚至还有数据分析师，对着一堆数据挖掘规律、做报表，沉浸在数字世界里，比跟人虚与委蛇轻松太多。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/10260a1f4c7a46fba33647d0a399df09
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/4356a115d9e84b31a5751aceb0e91710
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/462184ead6b848d6911e8cd7aaccf5f5
+Content: No content
+Full Post Text: #荣耀##发面经攒人品#分享一下荣耀硬件开发岗的面试经历笔试：9.27左右，我以为我简历被挂了全选择，整体偏简单。一般不出计算题难度都不会太高，排除法什么的都做得差不多了一面：10.10左右线上的面试，我还以为我的笔试被挂了主要是技术面，介绍了项目，上一场面试花了框图，这次我就顺手拿出来了，讲的比较细致八股不记得了，问了实习做的内容，学到了什么，以及自己对这个职位的优势。反问需要补充什么知识，面试官说基带硬件的电源部分，需要更深入的学习。面试官肯定了我自己介绍的优势一面当晚发测评做了，应该是通过了。#牛客AI配图神器#二面：10.24左右也是线上的面试，间隔了好久，我还以为我的测评被挂了主管面，就是主管的面的一些聊天，问了实习时候的电源产品的环路增益，补偿，相位裕度等，稍微深入了一些。加班的看法，对荣耀的看法等。面完10分钟决策。整体来说还是要自然一些，不要把面试当考试了，可能我个人比较松弛，面试基本没有不通过的。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/c8990c4613fc48b0a56114d5597dffaf
+Content: No content
+Full Post Text: 1.自我介绍2.项目介绍3.项目有哪个难忘的点，怎么解决的4.第一和第三个项目有点像（因为都是电赛😭同类型题目）5.校园经历两个？好像没有问，但是我答了大概做什么6.你说你熟练使用示波器，示波器的参数主要是什么我忘了，但是支支吾吾答了采样频率，通道啥的，他问&quot;这你用的是什么示波器啊？&quot;，我终于记起来了，是&quot;带宽，采样率和通道数&quot;，他说&quot;你用的是低配版示波器？&quot; ，我&quot;我也不知道，我没有注意&quot;7.反问:实习主要任务，实习转正要有哪些必备条件（要有转正名额，要每周周报A）8.问求职意向为什么是硬件测试9.问秋招有没有offer，面试怎么样（有，但是需要经常出差，加班很严重，距离很远，需要提前实习，一年四季都在出差，没有去）10.问&quot;怎么看待加班？&quot;，提升技能还有赶进度愿意，无效加班待看问&quot;如果无效加班到晚上八点九点呢&quot;，答&quot;愿意接受，因为在实验室也经常十点半回去😭（命苦啊，不知道怎么回答了）&quot;11.反问，需要出差嘛？（不经常）12.反问，发展机制如何（管理和技术岗，建议还是硬件开发吧）13.我:发展机制基本符合我的路径，十分愿意接受14.这两天收到回复，但是我是最后一个，前面几个都不错，所以还要跟经理讨论讨论#牛客AI配图神器#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/2a37b006e1fb429ab9a69443ceae73a4
+Content: No content
+Full Post Text: 强度高，但公司挺大方的
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/3d56d17965fd476ba0081994c47d81dc
+Content: No content
+Full Post Text: 咨询广大网友，这两家公司，两个岗位，一个是测试在西安，一个是研发在成都，但是记忆开的要比汇川低点，平台比不上汇川，但据说记忆不咋加班，双休算是最大福利待遇了，汇川通用强度应该有但是感觉8点前可以走，真是有点难抉择，虽然很想留成都了。有无知情人士给点建议，感谢😭
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/61d366f5014142c0b5527481a385d5f0
+Content: No content
+Full Post Text: 本人单2硕，女生，电子信息专业，目前手上3个offer，马上就到11月了感觉没有太多好机会麻烦各位友友给些建议1️⃣徐工集团 硬件开发（嵌入式方向）2️⃣京东方 制程技术培训生，网上说和工艺工程师的岗位差不多，需要倒班，上四休二，因为和专业方向偏差较大且需要倒班比较纠结而且网上查了一下未来跳槽也都是类似的工艺岗方向，还是需要倒班  （但好像听说女生进来会尽量照顾不倒班，不知道是不是真的）3️⃣ 中航工业控股的一个子公司单位（算是研究所），单位规模较小（200人左右），单位的工作内容和研究生方向比较匹配（但也比较小众，所以未来可能也不好跳槽），因为网上查不到相关公司的一些评价，所以不太清楚这个公司具体的加班还有管理的情况，属于一个开盲盒的状态4️⃣奇瑞 电磁兼容， 瑞子薪资过于低了🥹 唯一一个月薪税前不过万的offer，且加班严重无加班费，听说基本单休，但是岗位是我比较想做的方向，所以也很纠结，不知道从奇瑞是否好跳槽。5️⃣ 华勤  研发岗 ， 加班严重但是有加班费，应该薪资较高， 默认单休， 感觉是个以后跳槽的好平台？
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/33a38e46200a4ad08522cb5c9ae3989a
+Content: No content
+Full Post Text: #i人适合做什么工作#之前看大家说i人适合前端，能少扯皮。但说实话，嵌入式这块对i人可能更友好！嵌入式开发基本都是和硬件、代码打交道，整天面对的是电路板、芯片手册和调试工具，需要沉下心研究，特别适合喜欢独处、专注技术本身的i人团队里沟通成本相对低，需求明确后大部分时间都是独立攻坚，远离无休止的会议和扯皮，而且嵌入式领域技术纵深足够，从底层驱动到系统移植，能钻的点很多，i人的耐心和细致在这儿优势明显虽然入门门槛不低，但一旦扎根，职业护城河也深
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/8088e8d40410400eba6c2c1347fa5385
+Content: No content
+Full Post Text: 硬件开发岗位，计算产品线岗位，最后的投递机会了，hc还有不少
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/dce345074cb345beace2a2c3980af895
+Content: No content
+Full Post Text: #硬件/芯片公司工作体验##中兴##测试开发面试##芯片测试##芯片#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/6d85861dad4e4a44a46a28a0b3130634
+Content: No content
+Full Post Text: 社招JD，坐标上海，欢迎大佬咨询大模型算法工程师岗位职责1、大模型算法研发：构建电商领域的大模型LLM底座，融合电商的知识，快速落地业务。持续建设和优化NLP/LLM/CV/多模态模型预训练算法，利用RAG、Long Context、RLHF、COT等技术，提升模型的理解、推理能力；2、负责设计、开发和优化电商领域的自然语言处理（NLP）算法，提高搜索、推荐系统的性能和效果；3、使用NLP/LLM/CV/多模态大模型，对搜索推荐全链路进行算法优化，改进商品创意生成、理解用户行为、理解商品内容等，以提升用户体验和系统智能化水平；4、大模型评估与调优：设计和实施算法评估框架，对模型性能进行监测和评估，并根据结果进行模型调优，确保系统的稳定性和可靠性；5、跨团队协作：与产品团队、工程团队和数据团队等紧密合作，理解业务需求，制定并实施相应的算法解决方案；6、持续学习与创新：跟踪最新的NLP/LLM/CV/多模态大模型研究进展，不断学习新技术和算法，将最新的科研成果应用到实际工程中，保持团队的竞争力；任职要求1、有良好的数据分析和挖掘能力，熟练使用数据分析工具和编程语言，有良好的团队协作和沟通能力优先；2、对新技术和算法有强烈的学习欲望，能够快速适应工作中的挑战；3、熟悉主流大模型的训练和微调流程、Prompt Engineering等，熟悉相关训练和部署工具的使用如Transformers、DeepSpeed、Megatron-LM等；4、熟悉深度学习框架，如TensorFlow、PyTorch等，熟悉大模型的开发和优化。大模型算法工程师岗位职责：1、构建电商领域的大模型基座模型，持续优化预训练、后训练算法，利用RAG、Long Context、RL、多模态等技术，提升模型的理解、推理能力；2、针对大模型Reasoning、Perception等多个方向，研究以RL算法为核心的训练范式，持续探索RL算法的scaling和泛化能力；3、设计和开发、优化由大模型驱动的电商业务Agent，利用RL等技术，提升Agent的规划、推理能力；4、使用大模型/多模态大模型技术，改进用户行为理解、商品检索、商品排序、商品创意生成、商品内容理解等环节的效率，提升用户体验和系统智能化水平；5、设计和实施大模型算法评估框架，对模型性能进行监测和评估，并根据结果进行模型调优，确保系统的稳定性和可靠性；6、与产品团队、工程团队和数据团队等紧密合作，理解业务需求，制定并实施相应的算法解决方案；7、持续学习与创新。跟踪最新的大模型研究进展，不断学习新技术和算法，将最新的科研成果应用到实际业务中，提升用户体验和用户留存；任职要求：1、有良好的数据分析和挖掘能力，熟练使用数据分析工具和编程语言，有良好的团队协作和沟通能力；2、对新技术和算法有强烈的学习欲望，能够快速适应工作中的挑战；3、熟悉大模型的训练和微调流程、Prompt Engineering等，熟悉相关训练和部署工具的使用如Transformers、DeepSpeed、Megatron-LM等；4、熟悉深度学习框架，如TensorFlow、PyTorch等，熟悉大模型的开发和优化；大模型Infra架构工程师岗位职责：1、负责实现和优化大模型分布式训练以及在线推理系统，提升训练效率和推理性能，包括不限于：架构设计、算子开发、数据处理加速、Checkpoint保存与加载、通信优化等；2、研究和优化大规模异构加速集群调度、存储、通信互联、监控、Profiling等组件，提升整体硬件利用效率；3、研究并实现各种模型并行策略（DP/TP/PP/EP/CP）、混合精度、Zero、FSDP、MOE、FP8等技术，加速模型训练，优化显存开销；4、设计和开发高效的离线、在线推理系统，优化TensorRT-LLM、ONNX-Runtime、vLLM等推理框架，加速整体推理性能；任职要求：1、本科及以上学历，具有扎实的计算机基础，熟悉操作系统和网络，熟悉C/C++和Python编程语言，对数据结构&算法设计有较深刻的理解；2、熟悉至少一种主流的深度学习框架，如Tensorflow或Pytorch；熟悉至少一种主流的模型推理框架，如TensorRT-LLM；3、熟悉CUDA编程，掌握TensorRT、Cutlass、cuDNN等加速库，有内核级优化经验者优先；4、具备大型分布式系统开发经验，熟悉MPI、NCCL、Megatron-LM、Deepspeed、FSDP等相关技术；5、责任心强，思路清晰，技术视野开阔，对业界新技术敏感，喜欢钻研，具有良好的学习能力并注重团队合作；
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/0e657ee859054695a1a767c4e6c7fafa
+Content: No content
+Full Post Text: 目前有3个offeroffer1：医疗器械领域，硬件实习，1000+人中厂，进去可能主要还是电源相关的测试打杂工作，辅助研发。工作强度中等，每天8h不怎么加班offer2：半导体芯片领域，电源设计，研发应该二三十来人的小公司，进去可能能做一点电源ic设计的工作，主要应该都还是辅助研发，工作强度中等，每天8h。offer3：机器人领域，硬件工程师实习，研发人员100来人的小公司，进去可能偏向于承担设计，研发的工作。工作强度大，基本加班到晚9点。个人是电子信息专业，以后可能也比较想走机器人的硬件开发岗位，但是目前这个offer加班强度有点不能接受。现在有几个问题：1. 对于未来校招，如果选择半导体芯片电源设计，对于我以后找板级电源的硬件工作有帮助吗？或者对于非科班的我进入ic电源设计有帮助吗？2. 对于未来校招，实习经历是平台大好一点，还是领域对口好一点？3. 对于未来校招，实习经历的实际工作内容，会不会影响？（比如做辅助工作和研发工作）综上，我目前情况可能选择哪一个offer好一点咧，麻烦大佬们看一看
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/43bb99fb02204a25a8945a780efacb59
+Content: No content
+Full Post Text: 1.介绍电源项目拓扑，电感元件选型，开关频率选的是多少？介绍电路设计。开发结果2. 都用过什么MCU主芯片？3.. DC-DC和LDO区别4.运算放大器平时有用吗？5.对岗位的了解6.准备想从事什么行业呢？7.反问面试时长：约二十分钟面试方式：腾讯会议，一位面试官，未开启摄像头
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/36be423871e5463d9b8a910471a60910
+Content: No content
+Full Post Text: 目前研一看到很多人都唱衰通信再考虑要不要转，目前在做通感一体转的话，有两个想法，一个是转ai，大模型相关，没有顶会，可能只能去开放另一个是转码 学Java/c++目前很迷茫，请赐教#通信/硬件秋招总结##通信/硬件秋招总结##通信和硬件还有转码的必要吗##ai应用开发#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/a9de2b944de841c6908096fd35cca065
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/ce279593e1e04c268dff787e3c31b180
+Content: No content
+Full Post Text: 1.看你两个志愿，你想做电源还是硬件？2.手撕多级运放输入级输出级3.这个运放的输入端电阻是很大还是很小？4.示波器用的什么型号，它的一些基本参数你知道吗5.测试纹波用的同轴线还是探头？6.仿真的时候会看信号完整性吗7.怎么验证的信号完整性？8.项目做了什么测试？如何测试的？9.LDO和DCDC的区别？10.LDO的输出噪声主要来源于哪里11.仿真的时候一些问题，太久记不清了12.实际项目中遇到了什么问题，如何解决的？13.另外的一个面试官多问了一下解决方案，以及开发是以及做的还是送出去做的
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/8577281c7f7345ed94e77eb0cb125275
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/1a32b6dec6b84542b0324e3e14cb0794
+Content: No content
+Full Post Text: #发面经攒人品##简历求建议##简历求拷打#本人沈阳地区双非电子信息硕士，简历如图。#东软集团##双非##硕士##电子信息##嵌入式##影像##影像开发##技术面#线下招聘会投递简历，一天后收到性格测评，测评完成后hr主动加v，问意向，选择了大连C++方向，随后发来面试通知，会议链接标注为 影像开发部；两天后线上一对一技术面；--2分钟自我介绍，--20分钟拷打简历上的项目，软件硬件事无巨细，包括但不限于选型，数据集处理，算法实现步骤等等；--随后是比赛、个人经历简单询问；--最后是C++八股，内容大致如下：·问：你对 C++ 都还比较熟悉是吧？C++ 的几大基本特性有什么？·问：C++ 通过什么方式实现多态？·问：了解虚函数吗？（上一个问题答错了，面试官给的提示）·问：C++ 里 static 关键字能修饰什么？·问：用的是什么版本C++？C++11新特性中的智能指针有哪些类型？有什么不一样？·问：指针和引用的区别？·问：对线程和进程的概念了解吗？·问：多线程之间访问同一资源可以用什么？（这个答错了，面试官就没接着问）·问：进程间的通信方式有哪些？·问：管道有哪些种？-----后续：面试通过询问是否可以去实习两个月，还在讨论ing有了解东软影像开发工作内容，具体情况的前辈吗？想听听大家的意见，欢迎大家指正和讨论。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/a94656ac4e33433090fc76bf5fd1e605
+Content: No content
+Full Post Text: 蜀黍已经签硬件测试在深圳的三方，包住且工资比泉峰高，但是听说测试岗最后大多都是转岗，有点纠结了，想问问各位佬们有什么看法两个都说是五天八小时工作时间海能达硬件测试地点：深圳龙岗待遇：包住，工资11k，年终奖2个月，五险（基数是基础工资的6/11），一金（5%）泉峰科技电子开发地点：南京（前期在国内培训1-2年，之后外派至越南胡志明市工作）待遇：不包住，包吃，月薪约为9k+1k住房补贴+0.3k交通补贴，年终奖也是基础工资2个月，六险一金（基数无折扣，5%）外派越南期间另有每月约11k的出差补贴，每季度享有8天额外假期关于外派，计划是长期外派，也表示如果遇上贸易制裁问题，也会长期留在南京工作
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/1f2312eec9734c3a8d909f714d57a715
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/0c3aa5724242493db27af06cfd110d9d
+Content: No content
+Full Post Text: 一手抓毕业论文，一手抓秋招，一手抓转算法，一手抓行测申论。秋招投了几家头部大厂的后台开发就没再投了，转投算法实习备战春招。银行国企都在流程中（四大行，政策行，农商行，三桶油等等）。顺带投了一些硬件厂，长存目前是相对满意的一个，待遇在武汉已经拉满了😋。算法方向，华为大模型已经入池，目前有两家后训练的实习。选调，贵州简历寄，四川笔试寄，重庆时间冲突放弃笔试，还剩下武汉省厅tz岗，其他省份都不太想去。忙忙碌碌两个月拿了一些offer，还是没有特别满意的😭。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/3ce16f493af54fafb08fbd5d12eac80c
+Content: No content
+Full Post Text: 嵌软岗位，约的周五上午 11 点面试，面试官迟到 5 分钟，我打电话给发通知的小姐姐，小姐姐去催了面试官才来，说明不是临时有事，而是压根没重视。一上线摄像头也不开，声音懒洋洋的让我自我介绍，我说完自我介绍，又让我说教育经历，介绍完又让我说说本科项目，介绍项目途中他还去接了电话，我是不知道的，对的，我对着空气介绍了半天，等他接完电话，才跟我说接电话了，我说需要我再介绍一下吗，他说把后面那些再说说也行，我就把后面那段又复述了一遍。讲完他钝了一会用疑问句说，那你把研究生项目再介绍介绍？？？？？我一个人搁那连续讲了差不多 10 分钟， 我介绍的时候他全程静默，介绍完了这些他八股也不问，项目也不问，就让我再介绍研究生项目。我本科项目是 freertos 相关的，研究生项目是 linux 驱动相关的。我直接就问了，对话如下：me： 贵公司想招聘什么样的人呢，需要具有哪些能力？xx: 主要是调试和硬件的接口，写一写控制函数之类的。me:那软件方面做什么呢，需要部署什么系统呢？xx：哦，我们主要是裸机开发（我尼玛，不需要操作系统还让我介绍完 freertos 项目又介绍 linux 项目）me:那裸机上有什么接口协议或者算法呢？xx:(应该是被我反问烦了或者生气了，语速终于不懒洋洋的了，说的很急)我们还要在安卓上开发软件呢，还要部署深度学习模型呢，这些你会吗？（好吧，确实没搁安卓上开发过）me：这个工作内容和我的经验不匹配，我不适合这个岗位。xx:（呆了一下，轻声啊了一下，没说话）me:好吧，那我们的面试可以结束了，感谢您的参与。xx：（呆住了，没说话）我直接退出了会议，收拾东西，赶紧去下一场一点钟的线下意向沟通。#面试尴尬现场##kpi面有什么特征#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/012a34ccd293439d999fa6cae0d08bfb
+Content: No content
+Full Post Text: #为了实习逃课值吗？#我选我觉得值作为快毕业的嵌入式开发狗，最近快被“上课还是实习”搞分裂了。前段时间拿到物联网公司硬件岗offer，偏偏撞上《传感器原理》这类硬核专业课。同学俩拨人，一派死磕课本啃《Verilog编程》，说基础打牢秋招不愁；另一派直接泡在公司，跟着mentor调车载传感器，朋友圈全是示波器波形。我选了折中：理论课录屏补，实验课必到，带着课本里的SPI协议问题去问mentor。现在不仅把知识点用活了，还参与做了块数据采集板，简历终于有了干货。嵌入式这行拼的是实战，能接触真实项目的实习，偶尔翘节理论课补回来不亏；但要是去打杂混证明，不如在实验室磨个参赛项目，面试官一眼识货。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/235ee91d33624849a5d5e0b76114e8c6
+Content: No content
+Full Post Text: 📍面试公司：宇视科技🕐面试时间：2025.10.29💻面试岗位：硬件测试❓面试问题：一面自我介绍，问了项目，然后使用过的测试工具啊，测试工具之类的，然后还有模电知识，三极管，电容电感之类的，还有加班能不能接受面试完了之后小姐姐直接跟我说，我这边的话面试通过了，你再等一下会有hr面（小姐姐真的真的超级超级温柔，超级好的小姐姐）二面自我介绍，问了下薪资，家庭情况，为什么选择硬件测试，对硬件测试的理解，为什么选择宇视科技，还有没有其他企业offer，好像差不多就是这些反问是不同公司的硬件测试可能不一样，贵公司的具体工作是什么聊得也还挺好的，hr也是直接跟我说这边面试通过，等一下等三面，可能会等久一点点，我连声感谢三面综合面，但是好像那个hr是其他部门的，临时掉过来面试的，所以一开始跟我说对我的简历不是很了解，先看一下接着就是问题:1.成绩在前几名，为什么不考研？（被问麻了这个问题，从第一个面试以来几乎每个hr都问）2.奖学金评定要有什么条件   3.项目介绍   4.有没有做过相关的硬件测试    5.感觉你们专业跟电相关的只有数电模电和电路啊？  6.硬件测试的理解  7.反问，问了发展机制  hr说硬件测试一方面就是需要知识面很广，相比于硬件开发，硬件开发可能只是针对某个领域，但是测试的话，就是各个领域都得会测（？这么说怎么感觉硬件开发还要简单？？），硬件测试可能之后技术上提升，成为某个领域专家（就是又领域广，深度深），比如射频工程师啊，开发啊都有的，HR&quot;那你还有没有要问的&quot;   我回答&quot;嗯……那暂时没有了&quot;  HR犹豫了半分钟&quot;行，那你回去等通知吧，大概一两个工作日应该就会给你通知的，到时候及时跟HR联系，现在的话也不能确定下来，我这边的话也要面几个，然后再横向对比一下，最后再确定&quot;，我&quot;好的谢谢&quot;🙌面试感想：总之最后的三面的时候，感觉答的不是很好，然后问题也没有反应过来，脑子不是很好使😭😭😭问题有点出乎意料三面也没有直接说 通过，感觉回答不太好，大概率挂了吧😭😭😭也想问问大家宇视线下三面会不会直接说结果呀😖😖😖#如何判断面试是否凉了##发面经攒人品##听到哪句话代表面试稳了OR挂了？##面试时最害怕被问到的问题##牛客AI配图神器#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/f26eb5fa18cd46cda9591d2f68f870f3
+Content: No content
+Full Post Text: 德赛西威：智能驾驶事业部-车载总线开发中科曙光：嵌软bmc华感科技：嵌软海康威视：智能硬件-后端开发德赛西威base惠州，面试官说基于MCU和AUTOSAR做一些车载总线开发，感觉汽车电子比较有发展？中科曙光base天津，待遇挺好的，目前是这几个里面最高的，但是服务器bmc会不会方向比较窄，未来好跳槽吗？华感科技是大华子公司，做热成像的，岗位是嵌软，但是具体做什么还不确定海康威视还没谈薪，面试官说是后端开发，结合研究院的算法，做一些应用，是不是偏软件的？这几个强度都不低，所以感觉也无所谓了，大佬们从其他方面给给建议#德赛西威##中科曙光##华感科技##海康威视#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/8f961168857e468ab6a2e571775e6902
+Content: No content
+Full Post Text: #如果上班像打游戏，你最想解锁什么技能#作为刚入职的嵌入式开发狗，我最想解锁的第一个技能必须是「潜行」！就像玩《刺客信条》似的，老板一靠近工位自动进入隐身模式，左手假装改Verilog代码，右手悄悄搓《王者荣耀》，连鼠标光标都能精准伪装，谁也看不出我在峡谷乱杀。其次必须解锁「分身术」！参考《火影忍者》的影分身，分出一个替身坐在工位上写测试报告、跟硬件同事对接需求，本体直接溜到茶水间，掏出手机开《和平精英》，队友喊我开黑再也不用找“去厕所”的借口。要是这些技能真能解锁，上班哪还有什么内耗，天天都是摸鱼人的狂欢！
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/2c61cc9a616c43deafcea4bfd8400ab2
+Content: No content
+Full Post Text: 关于offer选择以及后续发展，恳请各位大佬给点建议，本人感激不尽。个人意向：个人非常在意公司、岗位发展前景，技术性。后续想一直提升技术，做技术相关的。拒绝躺平，缺钱，需要搞钱。工作地点全部都可以接受。个人对技术兴趣很大。加班无所谓。以下所有薪资都差不多：目前两个offer：1.宁德时代 不考虑了2.蔚来开发优点：平台类似互联网，环境挺好，感觉很不错缺点：明确暗示有裁员，不稳定。并且做的好像是类似嵌入式c/cpp，不太会。不确定后续发展怎么样3.华为通软 泡池子优点：大厂背书，认可度高。缺点：大部门不是软件相关的，是偏那种硬件的、通信的，猜测可能会被输出。4.xkl通软 泡池子 应该可以开出来优点：核心保密部门。缺点：感觉通软技术性可能不强。感觉后续跳槽也是在半导体这一块了。5.荣耀通软  泡池子 应该可以开出来缺点：安卓framework开发，没接触过，害怕后续发展受限。个人意向排序： 华为，蔚来，xkl，荣耀，宁德求各位大佬给点建议，感谢！！！#offer帮选#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/0f5c37b02697495abda8c9fb01b7684e
+Content: No content
+Full Post Text: 记忆科技，待遇怎么样啊，硬件开发，有无兄弟了解一下？26届双非硕
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/741f22fb389f41a58c19c61253243356
+Content: No content
+Full Post Text: 10.27 一面 时长30分钟自我介绍你理解的测开是怎样的介绍实习期间的工作实习时候的测试流程研发不承认bug怎么办测试用例包含哪些部分 举例子说明实习期间印象深刻的bug介绍项目如果满分10分 你会给自己对python的掌握程度打几分用java或python实现计算器的加减乘除运算 只用说思路反问（问了业务 答做服务器的 有软件和硬件测试）感觉很早以前投递的 上周才收到笔试 到了这种时候海笔就不做了的 看见邮件说联想不海笔 我就想好吧那我也拿出诚意来吧 做完后第二天上午收到面试预约邮件 就在当天下午 不过时间冲突就没有预约 第二天接到电话问还考虑联想吗于是约了今天的面试 搜面经看得我汗流浃背了 狠狠补了一下 结果问得很基础 没有使劲深挖 何意味————————————————————-10.30 二面 时长12分钟😅😅😅遇到神人了 还得是公司平台大啊 狗也能当面试官了
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/discuss/
+Content: No content
+Full Post Text: No post content available
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/127dd26bc795490594e564b8ee7d2c9d
+Content: No content
+Full Post Text: 面试时间：2025年10月下旬面试时长：20分钟左右面试方式：腾讯会议，一位面试官，开启摄像头，略有迟到面试问题：1.      自我介绍2.      项目介绍3.      承担工作介绍4.      在进行设计选型的时候，你主要考虑电阻、电容、电感哪些参数呢？5.      讲一下 LDO 与 DCDC 的区别6.      做这些项目当中对示波器用的多吗？那差分信号会关注哪些点？有了解眼图吗？7.      能讲一能讲一下你在 PCB layout 的时候，注意的点吗？8.      有用运用过一些什么通信协议吗？介绍SPI协议9.      反问
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/18e936620cef4d0bb48382794c8c6cf4
+Content: No content
+Full Post Text: 自我介绍环节之后，就是询问项目相关。1.之前做的项目有没有遇到什么硬件难题，怎么解决的2.两轮BMS关键点是什么？有什么可以创意的点可以做？3.40V转5V，5V转3.3 电源方案？电源设计中技术指标4.你认为怎么样学习效率最高5.为什么选硬件，硬件开发需要具备什么能力6.你有什么想问的#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/300884b6b3574c979b10df14c1236536
+Content: No content
+Full Post Text: 首先面试官对本次面试进行介绍1.自我介绍2.在学习或参与项目或实习过程或做毕业设计过程中有有什么亮点和创新点3.是否实际测试验证过4.介绍一下某个竞赛你的角色和主要工作内容5.该竞赛有多少人参加6.完成过程中有出现什么困难或矛盾吗，怎么解决的7.有没有线上合作过8.通过努力成功解决某一难题案例9.介绍在难题完 过程中遇到的挑战，怎么解决的10.是否遇过多个任务同时进行的时候，怎么处理的11.如果是任务不可以延迟的情况下呢12.压力最大的事是什么，当时是怎么处理的13.未来职业规划14.项目实施过程中是否用到AI15.具体使用AI做了什么事16.是全盘拿过来用吗，是否对它产生过质疑17.找工作最看重的是哪些方面反问#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/19bb27666fb0472b8ca44f11ca4c25fa
+Content: No content
+Full Post Text: 1. 实习的基本情况2. 实习项目中遇到的困难 软件和硬件怎么配合3. ZYNQ的选型 ARM的类型 基础架构3. SPI驱动怎么开发的 驱动开发的流程4. SPI怎么配置实现各种工作模式（datasheet）5. 多线程怎么实现 需要注意哪些（锁 死锁）6. 中断怎么实现 为什么要用自旋锁 为什么要防止休眠 休眠的硬件原理是什么7. 智能算法的实现 优化 怎么降低复杂度反问了工作职责#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/d4bf4c64882641cdb84fd94f33139aff
+Content: No content
+Full Post Text: 一二面间隔时长超1个月1、自我介绍2、你现在实习负责的硬件开发工作到哪一步了，遇到了什么难题？3、出现过项目交付截止时间前，加班的情况吗4、你在测试过程中遇到过什么问题，怎么解决的？5、你在上一家公司设计电源部分，具体指标怎么设定的？6、你的这个项目花了一年时间，你主要负责了什么部分，为什么持续时间那么久？7、比赛中负责什么部分8、USB2.0走线阻抗是多少？如果不匹配会有什么影响？#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/44e3304646624249bea86dd0521d26e3
+Content: No content
+Full Post Text: 电话面1.自我介绍2.浅浅问了一下嵌入式的项目，是软件I2C还是硬件I2C？速率多少？串口波特率多少？驱动怎么写的？3.讲一下你平常调试的经验4.讲一下freertos中任务间的同步方式5.反问实际一面1.自我介绍2.讲一下做过的嵌入式项目3.freertos的内存管理有几种方式？4.优先级反转应该怎么处理？5.讲一下任务间的通知6.讲一下linux内核启动的过程7.linux系统里所有的进程线程是从哪个进程里来的？8.开发板启动过程中的引导程序是在哪里存储的？又是在哪里运行的？9.讲一下项目里的I2C的主从是什么，通信速率是多少？10.讲一下qt里信号与槽的原理11.为什么是用qt不是mfc去做的项目？12.有用过python吗？有实践过python里面的面向对象编程吗？13.本科怎么没有做过项目？14.有了解过公司吗15.反问#发面经攒人品#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/d239c1510b094a48956e0ce08728e10f
+Content: No content
+Full Post Text: 已拒
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/73bb712b56ed4f389e81fd54bae42af5
+Content: No content
+Full Post Text: 1. 自我介绍2. 为什么想到投传音？什么渠道投递的？3. 毕业时间？回国工作选择哪个城市发展？4. 之前实习都是测开相关，接下来是想找一个软硬件测试都涉及的工作吗？在这个领域想成为什么样的人才，讲一下3-5年内的预期发展？5. 过去的实习中，你觉得在测开领域你所掌握的哪些技能是比较精通的？6. 性能测试是用jmeter做的吗？讲讲当时项目的业务内容？7. 测试和测试开发两个岗位的差异如何理解？8. 所学专业和实习中有哪些方面是针对测开岗位相关的投入？9. 本硕期间有哪些专业课涉及到编程能力？10. 有学过算法对应的算法测试吗？11. Java掌握程度如何？12. 做过一些数据库的爬虫吗？13. 硕士和本科学校在学习体验上有什么区别？
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/4ad2c6c24ad04cd2b37d693d9d7ab874
+Content: No content
+Full Post Text: 华为 - 嵌入式开发 - 专业笔试笔试时间：2025 年 1 月 12 日笔试公司：华为考试题型：30 道选择、2 道编程、1 道硬件设计题，主要考察了 C 语言、嵌入式系统原理、操作系统（RTOS）、单片机方向的知识笔试题解：编程题之一是 “基于 FreeRTOS 的多任务调度优化”，需要设计任务优先级和调度策略以提升系统响应速度。思路是分析任务的实时性要求，对关键任务设置高优先级，采用抢占式调度，同时优化任务切换的上下文开销，通过代码实现并模拟测试。笔试感受：嵌入式笔试融合了软件和硬件知识，对底层原理要求很高，需要扎实的 C 语言功底和嵌入式系统开发经验，适合有硬件项目背景的同学。
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/3f022ba57f794bcdae2886a1d6e6a072
+Content: No content
+Full Post Text: 一面1.自我介绍2.浅浅问了一下嵌入式的项目，是软件I2C还是硬件I2C？速率多少？串口波特率多少？驱动怎么写的？3.讲一下你平常调试的经验（我刚开始说打断点，然后面试官说工作中经常是无法打断点的，有没有别的方式呢？）4.讲一下freertos中任务间的同步方式二面1.自我介绍2.讲一下做过的嵌入式项目3.freertos的内存管理有几种方式？4.优先级反转应该怎么处理？5.讲一下任务间的通知6.讲一下linux内核启动的过程7.linux系统里所有的进程线程是从哪个进程里来的？8.开发板启动过程中的引导程序是在哪里存储的？又是在哪里运行的？9.讲一下项目里的I2C的主从是什么，通信速率是多少？10.讲一下qt里信号与槽的原理11.为什么是用qt不是mfc去做的项目？12.有用过python吗？有实践过python里面的面向对象编程吗？13.本科怎么没有做过项目？14.有了解过公司吗
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/3c859975c0a04e69bbbd55377d3c3fa4
+Content: No content
+Full Post Text: 1.宇视科技（济南），硬件开发。意向，还没发offer，优点加班少，工作氛围平台还可以，缺点是钱非常少。2.经纬恒润（天津），测试工程师。意向，还没发offer。暂时没发现优点。3.广和通（深圳），硬件开发。等待三面ing，优点给钱多，缺点离家远裁应届。4.欣旺达（深圳），电子工程师。已拒，不多说。还有一点，男朋友接了一家杭州不错的offer，决定要签了，我想问问宇视科技的hr能不能给我调到杭州总部。但是在杭州的话宇视的钱太少了，不知道能不能活下去。在考虑是否全部拒绝，接下来秋招春招all in杭州，这样的话压力会很大。贴主是山东人。#选offer##平台or薪资，你更看重哪个##秋招的嫡长offer#
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/14b2c041b17548e1982d5dbad9474f5f
+Content: No content
+Full Post Text: 人事部氛围我很喜欢
+Comments:
+
+==================================================
+
+Title: No title
+URL: https://www.nowcoder.com/feed/main/detail/8a3bf9d6c8c348c3935a2054aeef224b
+Content: No content
+Full Post Text: 听说写总结能够提升自己的约面offer运气，加上也需要复盘一下，给各位参考一下。本人titile：双非硕（非深大杭电重邮这种，纯不知名双非）实习经历：一段小厂c端一段中厂b端，后端开发笔试测评AI面一堆没什么用就不总结了，仅总结进面：星环科技  后端 一面挂 要求提前实习某益 OC拒  直接跟HR谈薪到月base20K，真能给也算他牛，结果果然把我拒绝了，给了估计也不会去，保底的智元机器人 测试 一面挂  面试我的是硬件测试但是我投的软件测试，面试官和我直接无语3分钟，然后秒挂电科金仓 测试 一面挂 最想去的一家，结果挂了，答的也不错，有点破防。。。数数科技 OC 但是要求提前实习转正，在上海，拒了总结：双非秋招就是一坨。。。投了一堆国企也没动静。金9银10 是985的9。10月继续战，11月就跑去考编考公去了。待面：深信服零食有鸣CVTEKN Group上海汉得-----------------------------------------------------10.25更新-------------------------------------------------------------KN Group OC但是是实习转正 我服了c零食有鸣 OC 实习4个月签三方。。。深信服 排序挂 可能是前面9爷太多了CVTE 等综合面汉得 一面挂 面试体验较差且要看我实习代码这是能看的吗？待面：Meta APP总结：怎么都是让实习再转正啊我就想签一个正经的直接签校招三方的#秋招##实习转正进行时##双非#
+Comments:
+
+==================================================
+

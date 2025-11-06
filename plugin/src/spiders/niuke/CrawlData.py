@@ -4,6 +4,7 @@ import time
 
 from bs4 import BeautifulSoup
 import concurrent.futures
+from pathlib import Path
 
 def parse_post_page(url):
     """Fetch post page and extract post details and comments."""
@@ -133,9 +134,16 @@ if __name__ == "__main__":
     # 获取当前时间
     now = time.strftime("%Y-%m-%d", time.localtime())
     keywords = ["秋招", "校招", "面经", "算法工程师","Java后端开发","前端开发","硬件开发","软件开发"]  # List of keywords to search for
+
+    # 目标目录：项目根目录下 Data/origin
+    project_root = Path(__file__).resolve().parents[4]
+    origin_dir = project_root / "Data" / "origin"
+    origin_dir.mkdir(parents=True, exist_ok=True)
+
     for keyword in keywords:
         all_posts = get_all_posts(num_pages, keyword)
         # Save all scraped data to a file
         file_name = f"{keyword}_{now}.txt"
-        save_posts_to_file(all_posts, file_name)
-        print(f"Scraping completed for keyword '{keyword}'. Data saved to {file_name}.")
+        file_path = origin_dir / file_name
+        save_posts_to_file(all_posts, file_path.as_posix())
+        print(f"Scraping completed for keyword '{keyword}'. Data saved to {file_path}.")
